@@ -1,64 +1,574 @@
 {
-    "users": [
+  "Womens":[
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-trippy-smiles-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708596696_5463318.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Trippy Smiles",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-konnichiwa-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706956756_1638534.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Konnichiwa",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-floral-mirage-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551813_9118251.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Floral Mirage",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/mickey-mouse-checkered-charm-women-oversized-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708013397_3203936.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Satin Shirt: Mickey Mouse",
+        "listprice": "Women Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/powerpuff-girls-newsprint-women-oversized-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551628_5706931.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Satin Shirt: PPG Newsprint",
+        "listprice": "Women Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-bugs-is-back-boyfriend-shirt-womens?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689146243_4558691.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Looney Tunes: Bugs Is Back",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-blue-stripes-boyfriend-shirt-womens?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707539667_7183815.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Solids: Blue Stripes",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1199"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-sunny-yellow-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707755425_3229694.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Cotton Linen: Sunny Yellow",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-stained-glass-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1702550657_6257306.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Stained Glass",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/plaid-purple-and-white-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705563612_3025141.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Plaid: Purple And White",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-moss-green-women-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706763490_9134364.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Cotton Linen: Canary Green",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-coral-stripes-womens-boyfriend-shirts?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1704518211_9277800.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Solids: Coral Stripes",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 999"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-pink-women-boyfriend-shirt-womens?gte=2",
+        "customFade src": "",
+        "text-left": "Cotton Linen: Pink",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-bloom-women-shirts?gte=2",
+        "customFade src": "",
+        "text-left": "TSS Originals: Bloom",
+        "listprice": "Women Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solid-boyfriend-shirt-hot-pink?gte=2",
+        "customFade src": "",
+        "text-left": "Solids: Hot Pink",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1199"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-lime-boyfriend-shirt-womens?gte=2",
+        "customFade src": "",
+        "text-left": "Cotton Linen : Lime",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-earthy-rust-womens-boyfriend-shirts?gte=2",
+        "customFade src": "",
+        "text-left": "Cotton Linen: Earthy Rust",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1199"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-indie-vibes-women-oversized-shirts?gte=2",
+        "customFade src": "",
+        "text-left": "Looney Tunes: Indie Vibes",
+        "listprice": "Women Oversized Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-lavender-boyfriend-shirt-womens?gte=2",
+        "customFade src": "",
+        "text-left": "Cotton Linen : Lavender",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/harry-potter-doodle-womens-full-sleeve-shirt?gte=2",
+        "customFade src": "",
+        "text-left": "Harry Potter: Doodle",
+        "listprice": "Women Shirts",
+        "offer": "₹ 1099"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/plaid-peach-wine-unisex-shirt?gte=2",
+        "customFade src": "",
+        "text-left": "Plaid: Peach Wine",
+        "listprice": "Unisex Shirts",
+        "offer": "₹ 1299"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/naruto-sasuke-of-the-uchiha-unisex-tshirt?gte=2",
+        "customFade src": "",
+        "text-left": "Naruto: Sasuke Of The Uchiha",
+        "listprice": "Unisex Shirts",
+        "offer": "₹ 1499"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/peanuts-comic-print-boyfriend-shirt-womens?gte=2",
+        "customFade src": "",
+        "text-left": "Peanuts: Comic Print",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1199"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-lime-punch-boyfriend-shirt-womens?gte=2",
+        "customFade src": "",
+        "text-left": "Solids: Lime Punch",
+        "listprice": "Women Boyfriend Shirts",
+        "offer": "₹ 1299"
+      }
+    ],
+    "Mens":[
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solid-white-men-tshirt?gte=1",
+        "text-left": "Solid: White",
+        "listprice": "Jerseys",
+        "offer": "₹ 499",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/oversized-t-shirts-bugs-bunny-dayum?gte=1",
+        "text-left": "Bugs Bunny: Dayum",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/men-hooded-t-shirts-solids-berry?gte=1",
+        "text-left": "Solid: Berry",
+        "listprice": "Hooded T-Shirts",
+        "offer": "₹ 799",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solid-mi-blue-men-tshirts?gte=1",
+        "text-left": "Solid: MI blue",
+        "listprice": "T-Shirts",
+        "offer": "₹ 399",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spider-man-2099-t-shirts?gte=1",
+        "text-left": "Spider-Man: 2099",
+        "listprice": "T-Shirts",
+        "offer": "₹ 549",
+        "product-price": "₹ 699",
+        "percentage-off": "₹\n                    150 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-the-bat-sigil-oversized-tshirt?gte=1",
+        "text-left": "Batman: The Bat Sigil",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 899",
+        "product-price": "₹ 999",
+        "percentage-off": "₹\n                    100 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/naruto-ghost-of-uchiha-oversized-t-shirts?gte=1",
+        "text-left": "Naruto: Ghost of Uchiha",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/men-oversized-hooded-t-shirt-solids-off-white-and-yellow?gte=1",
+        "text-left": "Solids: Off White and Yellow",
+        "listprice": "Hooded T-Shirts",
+        "offer": "₹ 899",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spider-man-radioactive-oversized-full-sleeve-tshirts?gte=1",
+        "text-left": "Spider-Man: Radioactive",
+        "listprice": "Oversized Full Sleeve T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "₹ 1199",
+        "percentage-off": "₹\n                    200 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/naruto-itachi-uchiha-oversized-t-shirts?gte=1",
+        "text-left": "Naruto: Itachi Uchiha",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/the-godfather-five-families-t-shirts?gte=1",
+        "text-left": "The Godfather: Five Families",
+        "listprice": "T-Shirts",
+        "offer": "₹ 599",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-the-dark-knight-hooded-tshirt?gte=1",
+        "text-left": "Batman: The Dark Knight",
+        "listprice": "Hooded T-Shirts",
+        "offer": "₹ 1199",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-madness-in-gotham-mens-oversized-tshirt?gte=1",
+        "text-left": "Batman: Madness In Gotham",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 799",
+        "product-price": "₹ 999",
+        "percentage-off": "₹\n                    200 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-full-sleeve-tshirts?gte=1",
+        "text-left": "Spider-Man: Across The Spider-Verse",
+        "listprice": "Oversized Full Sleeve T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "₹ 1199",
+        "percentage-off": "₹\n                    200 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-wayne-industries-drop-cut-mens-tshirt?gte=1",
+        "text-left": "Batman: Wayne Industries",
+        "listprice": "Drop Cut T-Shirts",
+        "offer": "₹ 699",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-guardian-of-gotham-oversized-t-shirts?gte=1",
+        "text-left": "Batman: Guardian of Gotham",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/fighter-ace-of-altitude-oversized-t-shirts?gte=1",
+        "text-left": "Fighter: Ace Of Altitude",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-black-tshirt?gte=1",
+        "text-left": "Solids: Black",
+        "listprice": "T-Shirts",
+        "offer": "₹ 449",
+        "product-price": "₹ 599",
+        "percentage-off": "₹\n                    150 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/solids-coffee-brown-t-shirts?gte=1",
+        "text-left": "Classic Sustainable Tee: Coffee Brown",
+        "listprice": "T-Shirts",
+        "offer": "₹ 499",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spider-man-thwip-hooded-tshirt?gte=1",
+        "text-left": "Spider-Man: Thwip",
+        "listprice": "Hooded T-Shirts",
+        "offer": "₹ 799",
+        "product-price": "₹ 999",
+        "percentage-off": "₹\n                    200 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/the-godfather-honor-oversized-full-sleeve-t-shirts?gte=1",
+        "text-left": "The Godfather: Honor",
+        "listprice": "Oversized Full Sleeve T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-tshirt?gte=1",
+        "text-left": "Spider-Man: Across The Spider-Verse",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 799",
+        "product-price": "₹ 999",
+        "percentage-off": "₹\n                    200 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/spiderman-miles-logo-t-shirts?gte=1",
+        "text-left": "Spider-Man: Miles Logo",
+        "listprice": "T-Shirts",
+        "offer": "₹ 499",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/batman-gothams-saviour-oversized-tshirts?gte=1",
+        "text-left": "Batman: Gotham's Saviour",
+        "listprice": "Oversized T-Shirts",
+        "offer": "₹ 999",
+        "product-price": "",
+        "percentage-off": ""
+      }
+    ],
+    "Kids":[
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-aurora-girls-dresses?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689929505_4171348.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Aurora",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 649",
+        "product-price": "₹ 699",
+        "percentage-off": "₹\n                    50 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/harry-potter-hedwig-gathered-dress?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694177478_2614523.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Harry Potter: Hedwig",
+        "listprice": "Girls Cotton Gathered Dresses",
+        "offer": "₹ 599",
+        "product-price": "₹ 899",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-peach-fuzz-girl-dresses?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1690803083_9478652.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Peach Fuzz",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 899",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/disney-daisy-duck-girls-t-shirt-dress?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687515674_2216983.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Disney: Daisy Duck",
+        "listprice": "Girls Cotton T-Shirt Dresses",
+        "offer": "₹ 499",
+        "product-price": "₹ 799",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/dexter-trouble-maker-gathered-dress?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687516736_9324695.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Dexter: Trouble Maker",
+        "listprice": "Girls Cotton Gathered Dresses",
+        "offer": "₹ 599",
+        "product-price": "₹ 899",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/lilo-and-stitch-little-monster-girls-polo-dresses?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696504109_2333212.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "Lilo & Stitch: Little Monster",
+        "listprice": "Girls Cotton Polo Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/dc-supergirls-girls-dresses?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696578705_1723734.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "DC: Supergirls",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 499",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-parakeet-girls-dresses?gte=2",
+        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705741059_1932334.jpg?format=webp&w=300&dpr=1.5",
+        "text-left": "TSS Originals: Parakeet",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 599",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/disney-rapunzel-girls-dresses?gte=2",
+        "customFade src": "",
+        "text-left": "Disney: Rapunzel",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-vibes-girls-dress?gte=2",
+        "customFade src": "",
+        "text-left": "Winnie The Pooh: Vibes",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/the-aristocats-marie-girls-dress?gte=2",
+        "customFade src": "",
+        "text-left": "The Aristocats: Marie",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/disney-princesses-girls-dresses?gte=2",
+        "customFade src": "",
+        "text-left": "Disney: Princesses",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 599",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/disney-born-to-lead-girls-t-shirt-dress?gte=2",
+        "customFade src": "",
+        "text-left": "Disney: Born To Lead",
+        "listprice": "Girls Cotton T-Shirt Dresses",
+        "offer": "₹ 499",
+        "product-price": "₹ 799",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/disney-princess-aurora-girls-dresses?gte=2",
+        "customFade src": "",
+        "text-left": "Disney: Princess Aurora",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-fun-days?gte=2",
+        "customFade src": "",
+        "text-left": "TSS Originals: Fun Days",
+        "listprice": "Girls Cotton T-Shirt Dresses",
+        "offer": "₹ 399",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/peanuts-snoopy-floral-pattern-gathered-dress?gte=2",
+        "customFade src": "",
+        "text-left": "Peanuts: Snoopy Floral Pattern",
+        "listprice": "Girls Cotton Gathered Dresses",
+        "offer": "₹ 599",
+        "product-price": "₹ 899",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/the-lion-king-simba-pattern-gathered-dress?gte=2",
+        "customFade src": "",
+        "text-left": "The Lion King: Simba Pattern",
+        "listprice": "Girls Cotton Gathered Dresses",
+        "offer": "₹ 599",
+        "product-price": "₹ 899",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/tss-originals-strawberry-gathered-dress?gte=2",
+        "customFade src": "",
+        "text-left": "TSS Originals: Strawberry",
+        "listprice": "Girls Cotton Gathered Dresses",
+        "offer": "₹ 599",
+        "product-price": "₹ 899",
+        "percentage-off": "₹\n                    300 OFF"
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-bee-you-girls-dress?gte=2",
+        "customFade src": "",
+        "text-left": "Winnie The Pooh: Bee You",
+        "listprice": "Girls Cotton Dresses",
+        "offer": "₹ 449",
+        "product-price": "",
+        "percentage-off": ""
+      },
+      {
+        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-stay-cool-gathered-dress?gte=2",
+        "customFade src": "",
+        "text-left": "Looney Tunes: Stay Cool",
+        "listprice": "Girls Cotton T-Shirt Dresses",
+        "offer": "₹ 499",
+        "product-price": "₹ 799",
+        "percentage-off": "₹\n                    300 OFF"
+      }
+    ],
+    "Users": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "age": 25
       },
       {
         "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "age": 30
       },
       {
         "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "age": 22
       }
+    ],
+    "Cart":[
+
+    ],
+    "WishList":[
+
     ]
-  }
+}
