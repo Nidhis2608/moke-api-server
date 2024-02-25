@@ -1,174 +1,147 @@
 {
   "Womens":[
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-trippy-smiles-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708596696_5463318.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Trippy Smiles",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-konnichiwa-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706956756_1638534.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Konnichiwa",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-floral-mirage-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551813_9118251.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Floral Mirage",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/mickey-mouse-checkered-charm-women-oversized-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708013397_3203936.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Satin Shirt: Mickey Mouse",
-        "listprice": "Women Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/powerpuff-girls-newsprint-women-oversized-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551628_5706931.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Satin Shirt: PPG Newsprint",
-        "listprice": "Women Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-bugs-is-back-boyfriend-shirt-womens?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689146243_4558691.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Looney Tunes: Bugs Is Back",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-blue-stripes-boyfriend-shirt-womens?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707539667_7183815.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Solids: Blue Stripes",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1199"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-sunny-yellow-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707755425_3229694.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Cotton Linen: Sunny Yellow",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-stained-glass-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1702550657_6257306.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Stained Glass",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/plaid-purple-and-white-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705563612_3025141.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Plaid: Purple And White",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-moss-green-women-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706763490_9134364.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Cotton Linen: Canary Green",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-coral-stripes-womens-boyfriend-shirts?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1704518211_9277800.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Solids: Coral Stripes",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 999"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-pink-women-boyfriend-shirt-womens?gte=2",
-        "customFade src": "",
-        "text-left": "Cotton Linen: Pink",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-bloom-women-shirts?gte=2",
-        "customFade src": "",
-        "text-left": "TSS Originals: Bloom",
-        "listprice": "Women Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solid-boyfriend-shirt-hot-pink?gte=2",
-        "customFade src": "",
-        "text-left": "Solids: Hot Pink",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1199"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-lime-boyfriend-shirt-womens?gte=2",
-        "customFade src": "",
-        "text-left": "Cotton Linen : Lime",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-earthy-rust-womens-boyfriend-shirts?gte=2",
-        "customFade src": "",
-        "text-left": "Cotton Linen: Earthy Rust",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1199"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-indie-vibes-women-oversized-shirts?gte=2",
-        "customFade src": "",
-        "text-left": "Looney Tunes: Indie Vibes",
-        "listprice": "Women Oversized Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-lavender-boyfriend-shirt-womens?gte=2",
-        "customFade src": "",
-        "text-left": "Cotton Linen : Lavender",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/harry-potter-doodle-womens-full-sleeve-shirt?gte=2",
-        "customFade src": "",
-        "text-left": "Harry Potter: Doodle",
-        "listprice": "Women Shirts",
-        "offer": "₹ 1099"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/plaid-peach-wine-unisex-shirt?gte=2",
-        "customFade src": "",
-        "text-left": "Plaid: Peach Wine",
-        "listprice": "Unisex Shirts",
-        "offer": "₹ 1299"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/naruto-sasuke-of-the-uchiha-unisex-tshirt?gte=2",
-        "customFade src": "",
-        "text-left": "Naruto: Sasuke Of The Uchiha",
-        "listprice": "Unisex Shirts",
-        "offer": "₹ 1499"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/peanuts-comic-print-boyfriend-shirt-womens?gte=2",
-        "customFade src": "",
-        "text-left": "Peanuts: Comic Print",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1199"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-lime-punch-boyfriend-shirt-womens?gte=2",
-        "customFade src": "",
-        "text-left": "Solids: Lime Punch",
-        "listprice": "Women Boyfriend Shirts",
-        "offer": "₹ 1299"
-      }
-    ],
+  {
+    "image": "https://srstore.in/cdn/shop/products/0_7e3edc65-2842-4605-bb46-54febdf30481_400x.jpg?v=1681145852",
+    "title": "Floral Maxi Dress",
+    "price": "$59.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/619VxMAh2cS._SL1001_.jpg",
+    "title": "Cropped Denim Jacket",
+    "price": "$49.95"
+  },
+  {
+    "image": "https://anavila.com/wp-content/uploads/ANAVILA-LOOKBOOK-2019_04_30-SK90178.jpg",
+    "title": "Striped Linen Blouse",
+    "price": "$39.99"
+  },
+  {
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23673814/2023/6/19/1d21a144-bd32-4d7a-b841-bcde1c7cf4f61687152525077BROADSTARWomenBlackTailoredLooseFitHigh-RiseEasyWashTrousers1.jpg",
+    "title": "Wide-Leg High Waist Pants",
+    "price": "$34.50"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61WrLIqvrtL._AC_UY1100_.jpg",
+    "title": "Knit Sweater Dress",
+    "price": "$54.99"
+  },
+  {
+    "image": "https://www.noorainternational.biz/cdn/shop/products/Casual2_grande.png?v=1622635782",
+    "title": "Leather Biker Jacket",
+    "price": "$89.95"
+  },
+  {
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23871430/2023/7/12/6e90dfb3-fe95-4bbd-8a95-0e5418cb679b1689161901559-Silk-Land-Women-Scarves-2221689161901345-1.jpg",
+    "title": "Printed Silk Scarf",
+    "price": "$19.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51BN-WltLTL.jpg",
+    "title": "Embroidered Boho Blouse",
+    "price": "$42.50"
+  },
+  {
+    "image": "https://i.etsystatic.com/6025720/r/il/8f9694/1175715756/il_570xN.1175715756_ntsd.jpg",
+    "title": "Pleated A-Line Skirt",
+    "price": "$29.95"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81xF6Cm4xcL._AC_UY1100_.jpg",
+    "title": "Trench Coat",
+    "price": "$79.99"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/10/43/12/13104312_41362546_600.jpg",
+    "title": "Lace-Trimmed Camisole",
+    "price": "$24.50"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sweater/z/z/w/xl-india-women-fashion07-sku-original-imaghp55whxbfves.jpeg?q=90&crop=false",
+    "title": "High Neck Sweater",
+    "price": "$38.75"
+  },
+  {
+    "image": "https://imgs7.luluandsky.com/catalog/product/2/0/20125e_____july25ain_1.jpeg",
+    "title": "Denim Midi Skirt",
+    "price": "$44.99"
+  },
+  {
+    "image": "https://images.meesho.com/images/products/87136019/mxrhx_512.webp",
+    "title": "Velvet Party Dress",
+    "price": "$69.95"
+  },
+  {
+    "image": "https://images.meesho.com/images/products/224338940/30l6g_512.webp",
+    "title": "Ruffle Sleeve Blouse",
+    "price": "$32.99"
+  },
+  {
+    "image": "https://image.made-in-china.com/2f0j00DkNVgQOrbKcR/Womens-Fashion-Clothes-Floral-Printed-Jumpsuits-Ladies-One-Piece-Cotton-Jumpsuit-Casual-Wide-Leg-Pants-with-Two-Pockets.jpg",
+    "title": "Cotton Wide-Leg Jumpsuit",
+    "price": "$58.50"
+  },
+  {
+    "image": "https://img0.junaroad.com/uiproducts/20446805/zoom_0-1698340415.jpg",
+    "title": "Suede Ankle Boots",
+    "price": "$79.99"
+  },
+  {
+    "image": "https://www.modaelementi.com/cdn/shop/products/ME-D-090_1800x.jpg?v=1583995511",
+    "title": "Off-Shoulder Midi Dress",
+    "price": "$49.95"
+  },
+  {
+    "image": "https://www.forevernew.co.in/pub/media/catalog/product/o/l/oldimlall_onbody_28293601_f.jpg",
+    "title": "Faux Leather Leggings",
+    "price": "$36.50"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230615/wmVu/648b26a4d55b7d0c636d9720/-473Wx593H-443012342-peach-MODEL.jpg",
+    "title": "Ribbed Turtleneck Sweater",
+    "price": "$45.99"
+  },
+  {
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1428566/2016/7/13/11468390955542-SOUNDARYA-Beige-Printed-Palazzo-Trousers-1251468390955320-1.jpg",
+    "title": "Printed Palazzo Pants",
+    "price": "$34.99"
+  },
+  {
+    "image": "https://dummyimage.com/300x400/99ccff/000000.jpg",
+    "title": "Wrap Front Blouse",
+    "price": "$27.75"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/65441828e57125454a763d6b-bankeng-women-winter-wool-blend-camel.jpg",
+    "title": "Wool Blend Peacoat",
+    "price": "$89.95"
+  },
+  {
+    "image": "https://ladyindia.com/cdn/shop/products/Color-Fuel-Multicoloured-Printed-Shift-Dress-1902-7190012-1-zoom_l_1024x1024.jpg?v=1571439235",
+    "title": "Printed Shift Dress",
+    "price": "$52.99"
+  },
+  {
+    "image": "https://images.bestsellerclothing.in/data/vero-moda/30-dec-2021/114379001_g6.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto&dpr=1.2",
+    "title": "Ripped Skinny Jeans",
+    "price": "$39.50"
+  },
+  {
+    "image": "https://cdn.platform.next/COMMON/Items/Default/Default/Publications/3_4Ratio/G29/shotview/1404/C25-628s2.jpg",
+    "title": "Tweed Blazer",
+    "price": "$74.99"
+  },
+  {
+    "image": "https://imagescdn.thecollective.in/img/app/product/6/693610-7403707.jpg",
+    "title": "Floral Print Midi Skirt",
+    "price": "$31.95"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71rAffuE7KL._AC_UY1100_.jpg",
+    "title": "Bell Sleeve Sweater",
+    "price": "$48.50"
+  }
+]
+,
     "Mens":[
       {
         "productlist href": "https://www.thesouledstore.com/product/solid-white-men-tshirt?gte=1",
