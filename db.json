@@ -3,27 +3,27 @@
   {
     "image": "https://srstore.in/cdn/shop/products/0_7e3edc65-2842-4605-bb46-54febdf30481_400x.jpg?v=1681145852",
     "title": "Floral Maxi Dress",
-    "price": "1200"
+    "price": "$59.99"
   },
   {
     "image": "https://m.media-amazon.com/images/I/619VxMAh2cS._SL1001_.jpg",
     "title": "Cropped Denim Jacket",
-    "price": "1499"
+    "price": "$49.95"
   },
   {
     "image": "https://anavila.com/wp-content/uploads/ANAVILA-LOOKBOOK-2019_04_30-SK90178.jpg",
     "title": "Striped Linen Blouse",
-    "price": "800"
+    "price": "$39.99"
   },
   {
     "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23673814/2023/6/19/1d21a144-bd32-4d7a-b841-bcde1c7cf4f61687152525077BROADSTARWomenBlackTailoredLooseFitHigh-RiseEasyWashTrousers1.jpg",
     "title": "Wide-Leg High Waist Pants",
-    "price": "1199"
+    "price": "$34.50"
   },
   {
     "image": "https://m.media-amazon.com/images/I/61WrLIqvrtL._AC_UY1100_.jpg",
     "title": "Knit Sweater Dress",
-    "price": "1500"
+    "price": "$54.99",
   },
   {
     "image": "https://www.noorainternational.biz/cdn/shop/products/Casual2_grande.png?v=1622635782",
@@ -143,381 +143,304 @@
 ]
 ,
     "Mens":[
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solid-white-men-tshirt?gte=1",
-        "text-left": "Solid: White",
-        "listprice": "Jerseys",
-        "offer": "₹ 499",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/oversized-t-shirts-bugs-bunny-dayum?gte=1",
-        "text-left": "Bugs Bunny: Dayum",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/men-hooded-t-shirts-solids-berry?gte=1",
-        "text-left": "Solid: Berry",
-        "listprice": "Hooded T-Shirts",
-        "offer": "₹ 799",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solid-mi-blue-men-tshirts?gte=1",
-        "text-left": "Solid: MI blue",
-        "listprice": "T-Shirts",
-        "offer": "₹ 399",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spider-man-2099-t-shirts?gte=1",
-        "text-left": "Spider-Man: 2099",
-        "listprice": "T-Shirts",
-        "offer": "₹ 549",
-        "product-price": "₹ 699",
-        "percentage-off": "₹\n                    150 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-the-bat-sigil-oversized-tshirt?gte=1",
-        "text-left": "Batman: The Bat Sigil",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 899",
-        "product-price": "₹ 999",
-        "percentage-off": "₹\n                    100 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/naruto-ghost-of-uchiha-oversized-t-shirts?gte=1",
-        "text-left": "Naruto: Ghost of Uchiha",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/men-oversized-hooded-t-shirt-solids-off-white-and-yellow?gte=1",
-        "text-left": "Solids: Off White and Yellow",
-        "listprice": "Hooded T-Shirts",
-        "offer": "₹ 899",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spider-man-radioactive-oversized-full-sleeve-tshirts?gte=1",
-        "text-left": "Spider-Man: Radioactive",
-        "listprice": "Oversized Full Sleeve T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "₹ 1199",
-        "percentage-off": "₹\n                    200 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/naruto-itachi-uchiha-oversized-t-shirts?gte=1",
-        "text-left": "Naruto: Itachi Uchiha",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/the-godfather-five-families-t-shirts?gte=1",
-        "text-left": "The Godfather: Five Families",
-        "listprice": "T-Shirts",
-        "offer": "₹ 599",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-the-dark-knight-hooded-tshirt?gte=1",
-        "text-left": "Batman: The Dark Knight",
-        "listprice": "Hooded T-Shirts",
-        "offer": "₹ 1199",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-madness-in-gotham-mens-oversized-tshirt?gte=1",
-        "text-left": "Batman: Madness In Gotham",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 799",
-        "product-price": "₹ 999",
-        "percentage-off": "₹\n                    200 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-full-sleeve-tshirts?gte=1",
-        "text-left": "Spider-Man: Across The Spider-Verse",
-        "listprice": "Oversized Full Sleeve T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "₹ 1199",
-        "percentage-off": "₹\n                    200 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-wayne-industries-drop-cut-mens-tshirt?gte=1",
-        "text-left": "Batman: Wayne Industries",
-        "listprice": "Drop Cut T-Shirts",
-        "offer": "₹ 699",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-guardian-of-gotham-oversized-t-shirts?gte=1",
-        "text-left": "Batman: Guardian of Gotham",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/fighter-ace-of-altitude-oversized-t-shirts?gte=1",
-        "text-left": "Fighter: Ace Of Altitude",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-black-tshirt?gte=1",
-        "text-left": "Solids: Black",
-        "listprice": "T-Shirts",
-        "offer": "₹ 449",
-        "product-price": "₹ 599",
-        "percentage-off": "₹\n                    150 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/solids-coffee-brown-t-shirts?gte=1",
-        "text-left": "Classic Sustainable Tee: Coffee Brown",
-        "listprice": "T-Shirts",
-        "offer": "₹ 499",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spider-man-thwip-hooded-tshirt?gte=1",
-        "text-left": "Spider-Man: Thwip",
-        "listprice": "Hooded T-Shirts",
-        "offer": "₹ 799",
-        "product-price": "₹ 999",
-        "percentage-off": "₹\n                    200 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/the-godfather-honor-oversized-full-sleeve-t-shirts?gte=1",
-        "text-left": "The Godfather: Honor",
-        "listprice": "Oversized Full Sleeve T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-tshirt?gte=1",
-        "text-left": "Spider-Man: Across The Spider-Verse",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 799",
-        "product-price": "₹ 999",
-        "percentage-off": "₹\n                    200 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/spiderman-miles-logo-t-shirts?gte=1",
-        "text-left": "Spider-Man: Miles Logo",
-        "listprice": "T-Shirts",
-        "offer": "₹ 499",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/batman-gothams-saviour-oversized-tshirts?gte=1",
-        "text-left": "Batman: Gotham's Saviour",
-        "listprice": "Oversized T-Shirts",
-        "offer": "₹ 999",
-        "product-price": "",
-        "percentage-off": ""
-      }
-    ],
+  {
+    "image": "https://m.media-amazon.com/images/I/51+pZYGfF5L._AC_UY1100_.jpg",
+    "title": "Classic Cotton Shirt",
+    "price": "$39.99"
+  },
+  {
+    "image": "https://www.merchantmarine.co.in/cdn/shop/products/117MJSDDB3231_2_1024x1024.jpg?v=1662217356",
+    "title": "Slim-fit Denim Jeans",
+    "price": "$49.99"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/jmccb680/sweater/g/q/m/10-11-years-ujsw5232-us-polo-kids-original-imaf995dw8sczyfr.jpeg?q=90&crop=false",
+    "title": "V-Neck Sweater",
+    "price": "$59.99"
+  },
+  {
+    "image": "https://www.kojofit.com/cdn/shop/articles/the-dress-shirt-tailored-for-athletes-muscular-men-and-bodybuilders-832000.jpg?v=1663396516",
+    "title": "Tailored Dress Shirt",
+    "price": "$44.99"
+  },
+  {
+    "image": "https://5.imimg.com/data5/CR/OH/XH/SELLER-79239900/mens-casual-wear-chino-trouser.jpg",
+    "title": "Casual Chinos",
+    "price": "$34.99"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20211127/nudT/61a12bf6f997ddf8f11e1b69/-473Wx593H-469016479-darkbrown-MODEL.jpg",
+    "title": "Leather Jacket",
+    "price": "$89.99"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/64/41/09/19644109_44358951_1000.jpg",
+    "title": "Polo Shirt",
+    "price": "$29.99"
+  },
+  {
+    "image": "https://imagescdn.planetfashion.in/img/app/product/7/762690-8729715.jpg?auto=format&w=494.40000000000003",
+    "title": "Slim-fit Suit",
+    "price": "$129.99"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/655efb9172f18d75d13e6ce1-mens-fashion-athletic-joggers-pants.jpg",
+    "title": "Athletic Joggers",
+    "price": "$39.99"
+  },
+  {
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6510128/2018/8/31/522bc07f-7802-4f94-8fa8-ad865ef4e02e1535717193261-Roadster-Men-Black-Solid-Hooded-Sweatshirt-491535717191653-1.jpg",
+    "title": "Hooded Sweatshirt",
+    "price": "$49.99"
+  },
+  {
+    "image": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_03_T25_1125M_T0_X_EC_0?$PDP_IMAGEGRID_ZOOM_MD$",
+    "title": "Checked Flannel Shirt",
+    "price": "$42.99"
+  },
+  {
+    "image": "https://contents.mediadecathlon.com/p1786927/f9dd58865a15acb9fb0cb7561183307b/p1786927.jpg",
+    "title": "Cargo Shorts",
+    "price": "$31.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61a7OYJArwL._AC_UY1100_.jpg",
+    "title": "Casual Linen Pants",
+    "price": "$37.99"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230621/ZHrt/649228d2d55b7d0c6383020b/-473Wx593H-463484633-white-MODEL.jpg",
+    "title": "Crew Neck T-shirt",
+    "price": "$19.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61PLsC8ZLOL._AC_UY1100_.jpg",
+    "title": "Winter Pea Coat",
+    "price": "$79.99"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240207/R9nw/65c321a716fd2c6e6ae25561/-473Wx593H-461394178-green-MODEL.jpg",
+    "title": "Slim-fit Cargo Pants",
+    "price": "$45.99"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/64d0e2d161f09d257a45bd39-levi-s-men-s-denim-trucker-jacket.jpg",
+    "title": "Denim Trucker Jacket",
+    "price": "$69.99"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/b/v/k/7-uby01-756-41-fasczo-black-original-imagy246zed8ahyx.jpeg?q=90&crop=true",
+    "title": "Formal Dress Shoes",
+    "price": "$59.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81Ti7QpVuQL._SL1400_.jpg",
+    "title": "Patterned Silk Tie",
+    "price": "$24.99"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/4/s/q/-original-imagg5wch4j3tgv3.jpeg?q=90&crop=false",
+    "title": "Casual Slip-on Sneakers",
+    "price": "$34.99"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/6480f827679197097746ae2f-polo-ralph-lauren-water-repellent.jpg",
+    "title": "Quilted Vest",
+    "price": "$49.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51TmXtoE5ZL._AC_UY1100_.jpg",
+    "title": "Linen Button-down Shirt",
+    "price": "$37.99"
+  },
+  {
+    "image": "https://imagescdn.thecollective.in/img/app/product/9/907102-11185157.jpg",
+    "title": "Tailored Wool Trousers",
+    "price": "$59.99"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/76/43/44/18764344_40611754_600.jpg",
+    "title": "Pullover Hoodie",
+    "price": "$29.99"
+  },
+  {
+    "image": "https://5.imimg.com/data5/CG/XA/XB/SELLER-21288657/casanova-genuine-leather-belts-for-men-d.jpg",
+    "title": "Casual Canvas Belt",
+    "price": "$14.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81RnwGJtrrL._AC_UY1100_.jpg",
+    "title": "Fitted Baseball Cap",
+    "price": "$19.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71+iaOnTZaL.jpg",
+    "title": "Slim-fit Corduroy Pants",
+    "price": "$42.99"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1pvW27CblWUnz3qInzcos4ZZ2RueHCWnRoDNFdRvJD9cMaah8ImvNfb02BH-JUQ3MCto&usqp=CAU",
+    "title": "Classic Wool Fedora",
+    "price": "$34.99"
+  },
+  {
+    "image": "https://www.jeanswholesaler.in/1324-thickbox_default/royal-spider-men-s-full-sleeves-slim-fit-denim-casual-shirt.jpg",
+    "title": "Casual Denim Shirt",
+    "price": "$33.99"
+  },
+  {
+    "image": "https://image.made-in-china.com/2f0j00AiSkhVTPrlbs/Three-Piece-Suits-Tailor-Business-Blaze-Fashion-Bespoke-Office-Man-Suit.webp",
+    "title": "Tailored Blazer",
+    "price": "$89.99"
+  }
+],
     "Kids":[
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-aurora-girls-dresses?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689929505_4171348.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Aurora",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 649",
-        "product-price": "₹ 699",
-        "percentage-off": "₹\n                    50 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/harry-potter-hedwig-gathered-dress?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694177478_2614523.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Harry Potter: Hedwig",
-        "listprice": "Girls Cotton Gathered Dresses",
-        "offer": "₹ 599",
-        "product-price": "₹ 899",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-peach-fuzz-girl-dresses?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1690803083_9478652.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Peach Fuzz",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 899",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/disney-daisy-duck-girls-t-shirt-dress?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687515674_2216983.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Disney: Daisy Duck",
-        "listprice": "Girls Cotton T-Shirt Dresses",
-        "offer": "₹ 499",
-        "product-price": "₹ 799",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/dexter-trouble-maker-gathered-dress?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687516736_9324695.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Dexter: Trouble Maker",
-        "listprice": "Girls Cotton Gathered Dresses",
-        "offer": "₹ 599",
-        "product-price": "₹ 899",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/lilo-and-stitch-little-monster-girls-polo-dresses?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696504109_2333212.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "Lilo & Stitch: Little Monster",
-        "listprice": "Girls Cotton Polo Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/dc-supergirls-girls-dresses?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696578705_1723734.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "DC: Supergirls",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 499",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-parakeet-girls-dresses?gte=2",
-        "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705741059_1932334.jpg?format=webp&w=300&dpr=1.5",
-        "text-left": "TSS Originals: Parakeet",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 599",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/disney-rapunzel-girls-dresses?gte=2",
-        "customFade src": "",
-        "text-left": "Disney: Rapunzel",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-vibes-girls-dress?gte=2",
-        "customFade src": "",
-        "text-left": "Winnie The Pooh: Vibes",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/the-aristocats-marie-girls-dress?gte=2",
-        "customFade src": "",
-        "text-left": "The Aristocats: Marie",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/disney-princesses-girls-dresses?gte=2",
-        "customFade src": "",
-        "text-left": "Disney: Princesses",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 599",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/disney-born-to-lead-girls-t-shirt-dress?gte=2",
-        "customFade src": "",
-        "text-left": "Disney: Born To Lead",
-        "listprice": "Girls Cotton T-Shirt Dresses",
-        "offer": "₹ 499",
-        "product-price": "₹ 799",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/disney-princess-aurora-girls-dresses?gte=2",
-        "customFade src": "",
-        "text-left": "Disney: Princess Aurora",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-fun-days?gte=2",
-        "customFade src": "",
-        "text-left": "TSS Originals: Fun Days",
-        "listprice": "Girls Cotton T-Shirt Dresses",
-        "offer": "₹ 399",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/peanuts-snoopy-floral-pattern-gathered-dress?gte=2",
-        "customFade src": "",
-        "text-left": "Peanuts: Snoopy Floral Pattern",
-        "listprice": "Girls Cotton Gathered Dresses",
-        "offer": "₹ 599",
-        "product-price": "₹ 899",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/the-lion-king-simba-pattern-gathered-dress?gte=2",
-        "customFade src": "",
-        "text-left": "The Lion King: Simba Pattern",
-        "listprice": "Girls Cotton Gathered Dresses",
-        "offer": "₹ 599",
-        "product-price": "₹ 899",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/tss-originals-strawberry-gathered-dress?gte=2",
-        "customFade src": "",
-        "text-left": "TSS Originals: Strawberry",
-        "listprice": "Girls Cotton Gathered Dresses",
-        "offer": "₹ 599",
-        "product-price": "₹ 899",
-        "percentage-off": "₹\n                    300 OFF"
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-bee-you-girls-dress?gte=2",
-        "customFade src": "",
-        "text-left": "Winnie The Pooh: Bee You",
-        "listprice": "Girls Cotton Dresses",
-        "offer": "₹ 449",
-        "product-price": "",
-        "percentage-off": ""
-      },
-      {
-        "productlist href": "https://www.thesouledstore.com/product/looney-tunes-stay-cool-gathered-dress?gte=2",
-        "customFade src": "",
-        "text-left": "Looney Tunes: Stay Cool",
-        "listprice": "Girls Cotton T-Shirt Dresses",
-        "offer": "₹ 499",
-        "product-price": "₹ 799",
-        "percentage-off": "₹\n                    300 OFF"
-      }
-    ],
+  {
+    "image": "https://www.youlookuglytoday.com/wp-content/uploads/2018/11/spot-cow-animal-onesies-for-kids.jpg",
+    "title": "Adorable Animal Print Onesie",
+    "price": "$19.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71O6mQHMBZL._SL1500_.jpg",
+    "title": "Colorful Striped T-shirt",
+    "price": "$12.50"
+  },
+  {
+    "image": "https://img.kwcdn.com/product/open/2023-08-12/1691853667131-0055563a739d4737b5793062b2a9b632-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+    "title": "Cute Cartoon Hoodie",
+    "price": "$24.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61dcK7fDV+L._AC_UY1100_.jpg",
+    "title": "Denim Dungarees",
+    "price": "$29.99"
+  },
+  {
+    "image": "https://royalmarque.co/cdn/shop/files/1.jpg?v=1691565772",
+    "title": "Floral Print Dress",
+    "price": "$18.75"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51GcydDAntL._AC_UY1000_.jpg",
+    "title": "Sporty Jogging Set",
+    "price": "$22.50"
+  },
+  {
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/IV/SK/LQ/2057063/crs409a-500x500.jpg",
+    "title": "Cozy Knitted Sweater",
+    "price": "$26.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61pWQf8ZH-L._AC_UY1100_.jpg",
+    "title": "Elegant Party Dress",
+    "price": "$32.50"
+  },
+  {
+    "image": "https://i.etsystatic.com/14549777/r/il/fbe5da/3510886817/il_570xN.3510886817_psye.jpg",
+    "title": "Funny Graphic T-shirt",
+    "price": "$14.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/916bQnmUV2L._AC_UY1100_.jpg",
+    "title": "Casual Denim Jacket",
+    "price": "$35.00"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221015/leYI/634a6ea5aeb269659c476282/-473Wx593H-410261912-shockblue-MODEL.jpg",
+    "title": "Striped Polo Shirt",
+    "price": "$16.25"
+  },
+  {
+    "image": "https://fcity.in/images/products/325144798/1cbcz_512.jpg",
+    "title": "Playful Jumpsuit",
+    "price": "$21.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71a-OdGie-L._AC_UY1100_.jpg",
+    "title": "Comfy Sleepwear Set",
+    "price": "$19.50"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61XFPMqMg+L._AC_UY1100_.jpg",
+    "title": "Rainbow Striped Socks (Pack of 3)",
+    "price": "$8.99"
+  },
+  {
+    "image": "https://i.pinimg.com/originals/37/54/25/375425576ad2d1d49e7fa236051945d1.jpg",
+    "title": "Smart Casual Blazer",
+    "price": "$28.75"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61KgO2-EbgL._AC_UY1100_.jpg",
+    "title": "Winter Snowsuit",
+    "price": "$42.00"
+  },
+  {
+    "image": "https://fcity.in/images/products/24455955/a0b5f_512.jpg",
+    "title": "Funky Patterned Leggings",
+    "price": "$13.25"
+  },
+  {
+    "image": "https://ae01.alicdn.com/kf/H36faad4f07b64474ba189b26b252d35dD.jpg_640x640Q90.jpg_.webp",
+    "title": "Casual Checkered Shirt",
+    "price": "$20.50"
+  },
+  {
+    "image": "https://www.animal.co.uk/cdn/shop/products/041651_mus_animal_rowan_boys_organic_cargo_shorts_anl_ss23_05_696x.jpg?v=1677756826",
+    "title": "Adventurous Cargo Shorts",
+    "price": "$15.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/715pMIdsARS._AC_UF1000,1000_QL80_.jpg",
+    "title": "Dainty Floral Headband",
+    "price": "$6.75"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/kkbh8cw0/backpack/8/u/c/cute-red-owl-shape-multi-color-unique-pattern-backpacks-children-original-imafzzugazg4pugx.jpeg?q=90&crop=false",
+    "title": "Quirky Patterned Backpack",
+    "price": "$18.99"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/63895aadc3f8da5aeb1da2c3-k-komforme-kid-canvas-shoes-casual-white.jpg",
+    "title": "Casual Canvas Shoes",
+    "price": "$24.00"
+  },
+  {
+    "image": "https://img.fruugo.com/product/8/12/912476128_max.jpg",
+    "title": "Cartoon Character Pajamas",
+    "price": "$17.50"
+  },
+  {
+    "image": "https://ae01.alicdn.com/kf/H81df1984c31042758b8a167ccc2a4c77C.jpg_640x640Q90.jpg_.webp",
+    "title": "Chic Bowtie",
+    "price": "$9.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61Df3V4F2CL._AC_UY1100_.jpg",
+    "title": "Printed Sun Hat",
+    "price": "$11.25"
+  },
+  {
+    "image": "https://www.littledesire.com/uploads/products/k1612520172k47.jpg",
+    "title": "Trendy Sunglasses",
+    "price": "$14.50"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/ktvucnk0/ear-muff/d/x/x/winter-earmuff-ear-warmers-muffs-headband-for-men-women-kids-ski-original-imag74uew6wkftrt.jpeg?q=90&crop=false",
+    "title": "Cute Bunny Earmuffs",
+    "price": "$12.99"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/816kgIGywHL._AC_UY1000_.jpg",
+    "title": "Sparkly Ballet Flats",
+    "price": "$21.75"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/644d25c367f0940a861e93de-toys-studio-giant-teddy-bear-plush.jpg",
+    "title": "Plush Teddy Bear",
+    "price": "$16.99"
+  },
+],
     "Users": [
       {
         "id": 1,
