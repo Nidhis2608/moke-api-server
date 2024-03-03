@@ -6,6 +6,9 @@
     "title": "Floral Maxi Dress",
     "price": "999",
      "category": "Dress",
+     "description":"This floaty, floral maxi dress is perfect for their next party or special occasion. 
+                     Regular fit with a shirred waist for extra shaping and pretty frill detail on the short sleeves.
+                      Maxi-length skirt that's slightly longer in the back and features a tiered hem for playfulness.",
      "rating": 4.5
   },
   {
@@ -14,6 +17,9 @@
     "title": "Cropped Denim Jacket",
     "price": "1195",
     "category": "Jacket",
+     "description":"Elevate your casual style with this chic Cropped Denim Jacket. 
+                    Crafted from high-quality denim, this jacket effortlessly combines fashion and comfort.
+                    The cropped design adds a modern touch, making it a versatile piece for various occasions.",
      "rating": 3.5
   },
   {
@@ -22,6 +28,9 @@
     "title": "Striped Linen Blouse",
     "price": "999",
     "category": "Blouse",
+     "description":"Embrace the charm of laid-back elegance with our Striped Linen Blouse. Perfect for warm days or casual outings, 
+                      this blouse combines comfort and style effortlessly.
+                     The lightweight linen fabric ensures breathability, making it an ideal choice for any season. ",
      "rating": 4.0
   },
   {
@@ -30,6 +39,9 @@
     "title": "Wide-Leg High Waist Pants",
     "price": "2450",
     "category": "Jeans",
+     "description":"Step into elevated style with our Wide-Leg High Waist Pants. 
+                   These chic and versatile trousers are designed to make a statement while providing maximum comfort. 
+                 The high-rise silhouette accentuates your waist, while the wide-leg design adds a touch of modern flair. ",
      "rating": 4.0
   },
   {
@@ -38,6 +50,9 @@
     "title": "Knit Sweater Dress",
     "price": "1549",
     "category": "Sweater",
+     "description":"Embrace the cozy-chic vibes with our Knit Sweater Dress. 
+      This stylish piece seamlessly combines the comfort of a sweater with the sophistication of a dress. 
+    Crafted from soft and luxurious knit fabric, it feels as good as it looks. ",
      "rating": 4.5
   },
   {
@@ -46,6 +61,7 @@
     "title": "Leather Biker Jacket",
     "price": "1995",
     "category": "Jacket",
+     "description":"Rev up your style with our Leather Biker Jacket, a timeless piece that adds an edgy and sophisticated flair to your wardrobe. Crafted from high-quality leather, this jacket exudes durability and a hint of rebellion.",
      "rating": 3.5
   },
   {
@@ -54,6 +70,7 @@
     "title": "Printed Silk Scarf",
     "price": "999",
     "category": "Scarf",
+     "description":"Elevate your ensemble with our Printed Silk Scarf, a luxurious accessory that combines style and sophistication. Crafted from premium silk, this scarf features an exquisite print that adds a touch of artistry to any outfit. ",
      "rating": 5.0
   },
   {
@@ -62,6 +79,7 @@
     "title": "Embroidered Boho Blouse",
     "price": "1250",
     "category": "Blouse",
+     "description":"Indulge in bohemian charm with our Embroidered Boho Blouse, a delightful addition to your wardrobe. This blouse seamlessly combines free-spirited aesthetics with intricate embroidery, creating a piece that exudes effortless style. ",
      "rating": 5.0
   },
   {
@@ -70,6 +88,7 @@
     "title": "Pleated A-Line Skirt",
     "price": "2950",
     "category": "Skirt",
+     "description":"Elevate your feminine allure with our Pleated A-Line Skirt, a timeless wardrobe essential. The graceful A-line silhouette, coupled with meticulous pleats, creates a skirt that effortlessly captures classic elegance.",
      "rating": 4.2
   },
   {
@@ -78,6 +97,7 @@
     "title": "Trench Coat",
     "price": "2999",
     "category": "Coat",
+     "description":"Introducing our Trench Coat, the epitome of classic sophistication and enduring style. This timeless piece seamlessly blends fashion and function, offering a versatile outerwear option for various occasions. Crafted with meticulous attention to detail, the trench coat features a tailored silhouette",
      "rating": 4.5
   },
   {
@@ -86,6 +106,7 @@
     "title": "Shoes",
     "price": "1450",
     "category": "Footwear",
+     "description":"Step into style and comfort with our chic Lace-Up Casual Sneakers. These versatile shoes effortlessly blend fashion and functionality, offering a perfect balance of lightweight comfort and trendy design. The pristine white lace-ups are a timeless addition to your footwear collection, suitable for various casual occasions.",
      "rating": 5.0
   },
   {
@@ -94,6 +115,7 @@
     "title": "High Neck Sweater",
     "price": "2875",
     "category": "Sweater",
+     "description":"Indulge in cozy warmth and elevated style with our High Neck Sweater. Crafted with comfort in mind, this sweater offers a perfect blend of fashion and functionality. The high neck design not only adds a touch of sophistication but also provides extra warmth during chilly days. ",
      "rating": 3.5
   },
   {
@@ -102,6 +124,7 @@
     "title": "Denim Midi Skirt",
     "price": "1499",
     "category": "Skirt",
+     "description":"Update your wardrobe with this trendy Denim Midi Skirt. Perfect for a casual day out or a stylish evening look, this skirt features a classic denim design with a comfortable fit. Pair it with your favorite top to complete the look.",
      "rating": 4.3
   },
   {
@@ -110,6 +133,7 @@
     "title": "Velvet Party Dress",
     "price": "1995",
     "category": "Dress",
+     "description":"Make a statement at your next party with this elegant Velvet Party Dress. The luxurious velvet fabric adds a touch of sophistication, while the stylish design ensures you stand out. Embrace the glamour and turn heads with this stunning dress.",
      "rating": 4.5
   },
   {
@@ -118,6 +142,7 @@
     "title": "Ruffle Sleeve Blouse",
     "price": "1199",
     "category": "Blouse",
+     "description":"Elevate your style with our Ruffle Sleeve Blouse. The intricate ruffle details add a touch of femininity and charm to this versatile piece. Perfect for both casual and formal occasions, this blouse effortlessly combines comfort with elegance. Crafted with attention to detail, it's a wardrobe essential that will make you stand out. Embrace the trend and showcase your unique fashion sense with our Ruffle Sleeve Blouse. Make a statement wherever you go and let your style speak volumes.",
      "rating": 5.0
   },
   {
@@ -126,6 +151,7 @@
     "title": "Cotton Wide-Leg Jumpsuit",
     "price": "2850",
     "category": "Jumpsuit",
+    "description":"Step into style and comfort with our Cotton Wide-Leg Jumpsuit. This chic one-piece ensemble features a floral printed design, making it a fashionable choice for various occasions. The wide-leg pants ensure a relaxed and trendy look, while the cotton fabric provides breathability and ease of movement. With two convenient pockets, it combines practicality with style. Whether you're heading to a casual outing or a special event, this jumpsuit is a versatile and on-trend addition to your wardrobe. Embrace the joy of dressing up with our Cotton Wide-Leg Jumpsuit and make a fashion statement effortlessly.",
      "rating": 4.5
   },
   {
@@ -134,6 +160,7 @@
     "title": "Suede Ankle Boots",
     "price": "3999",
     "category": "Footwear",
+    "description":"Step into sophistication with our Suede Ankle Boots. These stylish boots are crafted with high-quality suede for a luxurious look and feel. The ankle-length design adds a touch of modern flair, making them a versatile choice for various outfits. Whether you're dressing up for a night out or adding a chic touch to your casual ensemble, these boots are the perfect companion. The sturdy construction and comfortable fit make them a go-to option for fashion-forward individuals. Elevate your footwear collection with our Suede Ankle Boots and stride confidently in style.",
      "rating": 4.5
   },
   {
@@ -142,6 +169,7 @@
     "title": "Off-Shoulder Midi Dress",
     "price": "2995",
     "category": "Dress",
+    "description":"Make a statement with our Off-Shoulder Midi Dress. This elegant dress features a flattering off-shoulder neckline, adding a touch of allure to your look. The midi length adds a sense of sophistication, making it ideal for both formal events and casual occasions. Crafted from high-quality fabric, the dress ensures comfort and a luxurious feel against your skin. The versatile design allows you to accessorize and style it according to your preferences. Elevate your wardrobe with our Off-Shoulder Midi Dress, a timeless piece that exudes grace and style.",
      "rating": 4.5
   },
   {
@@ -150,6 +178,7 @@
     "title": "Faux Leather Leggings",
     "price": "1650",
     "category": "Legging",
+    "description":"Step into style with our Faux Leather Leggings. Crafted from high-quality faux leather, these leggings add a touch of edgy sophistication to your wardrobe. The sleek and form-fitting design enhances your silhouette, making it a versatile choice for both casual and dressier occasions. The leggings provide comfort and flexibility, ensuring you look and feel confident wherever you go. Pair them with your favorite tops and accessories to create chic and on-trend outfits. Elevate your fashion game with our Faux Leather Leggings, a must-have staple for the modern fashionista.",
      "rating": 3.5
   },
   {
@@ -158,6 +187,7 @@
     "title": "Ribbed Turtleneck Sweater",
     "price": "1599",
     "category": "Sweater",
+    "description":"Stay cozy and stylish with our Ribbed Turtleneck Sweater. The ribbed texture adds a modern and chic element to this classic turtleneck design. Crafted with a perfect blend of warmth and comfort, this sweater is your go-to choice for chilly days. The versatile style allows you to pair it effortlessly with jeans, skirts, or leggings for a fashionable and comfortable look. Elevate your winter wardrobe with this essential piece that combines fashion and functionality. Embrace the colder seasons with confidence and grace, wrapped in the comfort of our Ribbed Turtleneck Sweater.",
      "rating": 4.5
   },
   {
@@ -165,7 +195,8 @@
     "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1428566/2016/7/13/11468390955542-SOUNDARYA-Beige-Printed-Palazzo-Trousers-1251468390955320-1.jpg",
     "title": "Printed Palazzo Pants",
     "price": "1899",
-    "category": "Jeans",
+    "category": "Palazzo",
+    "description":"Step into style with our Printed Palazzo Pants. The beige base adorned with intricate prints adds a touch of elegance to your wardrobe. Crafted with a loose and comfortable fit, these palazzo pants offer both style and ease of movement. Pair them with a solid top for a chic and fashionable look. The high-quality fabric ensures durability and a luxurious feel against your skin. Elevate your casual or semi-formal ensemble with the trendy and versatile appeal of our Printed Palazzo Pants.",
      "rating": 4.3
   },
   {
@@ -174,6 +205,7 @@
     "title": "Wrap Front Blouse",
     "price": "1775",
     "category": "Blouse",
+    "description":"Elevate your wardrobe with our Wrap Front Blouse. The wrap-style design adds a touch of sophistication to your ensemble, while the cuffed sleeves provide a stylish and modern flair. Crafted from high-quality fabric, this blouse offers a comfortable and flattering fit. Whether you're heading to the office or a social event, the Wrap Front Blouse is a versatile choice that effortlessly transitions from day to night. Embrace a timeless and chic look with this must-have addition to your collection.",
      "rating": 4.2
   },
   {
@@ -182,6 +214,7 @@
     "title": "Wool Blend Peacoat",
     "price": "1895",
     "category": "Coat",
+    "description":"Stay warm and stylish with our Wool Blend Peacoat. Crafted from a cozy wool blend, this peacoat is the perfect outerwear choice for chilly days. The classic design features a double-breasted front and a timeless silhouette that never goes out of style. With its versatile and neutral camel color, it pairs effortlessly with a variety of outfits. Whether you're heading to work or a weekend stroll, the Wool Blend Peacoat is a wardrobe essential that combines comfort and fashion seamlessly.",
      "rating": 4.0
   },
   {
@@ -190,6 +223,7 @@
     "title": "Printed Shift Dress",
     "price": "2299",
     "category": "Dress",
+    "description":"Step into the spotlight with our Printed Shift Dress. The vibrant and multicolored print adds a playful and chic touch to this dress, making it a standout piece for any occasion. The shift silhouette ensures comfort and easy movement, while the stylish design keeps you on-trend. Whether you're attending a brunch, party, or any social gathering, the Printed Shift Dress is your go-to choice for making a fashion statement. Elevate your wardrobe with this versatile and eye-catching dress.",
      "rating": 4.5
   },
   {
@@ -198,6 +232,7 @@
     "title": "Ripped Skinny Jeans",
     "price": "2550",
      "category": "Jeans",
+    "description":"Embrace a bold and edgy look with our Ripped Skinny Jeans. The distressed details and stylish rips give these jeans a contemporary and fashion-forward appeal. Crafted from high-quality denim, these skinny jeans offer a comfortable and flattering fit. Whether you're going for a casual day out or a night on the town, these jeans effortlessly combine comfort and style. Elevate your denim collection and showcase your unique style with the Ripped Skinny Jeans.",
      "rating": 4.0
   },
   {
@@ -206,6 +241,7 @@
     "title": "Tweed Blazer",
     "price": "1499",
      "category": "Blazer",
+    "description":"Step into sophistication with our Tweed Blazer. The classic tweed fabric adds a timeless touch to your wardrobe, making it a versatile piece for both formal and casual occasions. Tailored to perfection, this blazer exudes elegance and complements your refined style. Whether you're heading to the office or a social event, the Tweed Blazer effortlessly combines comfort and class. Elevate your ensemble and make a statement with this must-have blazer that transcends fashion seasons.",
      "rating": 4.1
   },
   {
@@ -214,6 +250,7 @@
     "title": "Floral Print Midi Skirt",
     "price": "1199",
      "category": "Skirt",
+    "description":"Embrace the charm of our Floral Print Midi Skirt. Adorned with a delightful floral pattern, this skirt effortlessly combines style and grace. The midi length adds a touch of sophistication, making it a perfect choice for various occasions. Crafted with attention to detail, the skirt offers comfort and elegance in every step. Pair it with your favorite top or blouse to create a chic ensemble. Let your style bloom with the Floral Print Midi Skirt that captures the essence of feminine fashion.",
      "rating": 5.0
   },
   {
@@ -222,6 +259,7 @@
     "title": "Bell Sleeve Sweater",
     "price": "4850",
      "category": "Sweater",
+    "description":"Elevate your winter wardrobe with the Bell Sleeve Sweater. The unique bell sleeves add a touch of flair to this cozy piece. Crafted for both comfort and style, this sweater is made from high-quality materials to keep you warm during chilly days. The versatile design allows you to pair it effortlessly with jeans, skirts, or leggings. Embrace the changing seasons with confidence, knowing you have the perfect blend of fashion and warmth in the Bell Sleeve Sweater.",
      "rating": 4.5
   }
 ],
@@ -232,6 +270,7 @@
     "title": "Classic Cotton Shirt",
     "price": "1999",
      "category": "Shirt",
+    "description":"Upgrade your wardrobe with our Classic Cotton Shirt for men. Crafted from premium cotton, this shirt offers a timeless and sophisticated look. The classic design ensures versatility, making it suitable for both formal and casual occasions. With a comfortable fit and attention to detail, this shirt is a must-have staple for any man's collection. Pair it with jeans for a laid-back style or dress it up with trousers for a polished ensemble. Elevate your fashion game with the Classic Cotton Shirt, a wardrobe essential that combines style and comfort effortlessly.",
      "rating": 4.5
   },
   {
@@ -240,6 +279,7 @@
     "title": "Slim-fit Denim Jeans",
     "price": "1499",
      "category": "Jeans",
+    "description":"Step into style with our Slim-fit Denim Jeans for men. These jeans are designed to provide a modern and tailored look, enhancing your overall silhouette. Crafted from high-quality denim, they offer both comfort and durability. The slim-fit design adds a contemporary touch, making these jeans a versatile choice for various occasions. Pair them with your favorite casual shirts or dress them up with a smart blazer – the possibilities are endless. Elevate your denim collection with the perfect blend of style and comfort in our Slim-fit Denim Jeans.",
      "rating": 4.2
   },
   {
@@ -248,6 +288,7 @@
     "title": "V-Neck Sweater",
     "price": "1200",
      "category": "Sweater",
+    "description":"Upgrade your winter wardrobe with our classic V-Neck Sweater for men. Crafted from premium materials, this sweater offers a perfect blend of warmth and style. The V-neck design adds a touch of sophistication, making it suitable for both casual and semi-formal occasions. The soft and comfortable fabric ensures all-day wearability. Pair it with your favorite jeans or chinos for a timeless and versatile look. Stay cozy and stylish throughout the chilly season with our V-Neck Sweater, a must-have addition to your collection.",
      "rating": 4.0
   },
   {
@@ -256,6 +297,7 @@
     "title": "Tailored Dress Shirt",
     "price": "1599",
      "category": "Shirt",
+    "description":"Elevate your formal attire with our Tailored Dress Shirt. Specially crafted for athletes, muscular men, and bodybuilders, this shirt combines a perfect fit with impeccable style. The tailored design ensures a flattering silhouette, making it ideal for business meetings, special occasions, or a polished everyday look. The high-quality fabric provides comfort and breathability, allowing you to stay confident throughout the day. Make a lasting impression with the perfect blend of comfort and style. Upgrade your wardrobe with the Tailored Dress Shirt, designed to complement your physique and enhance your overall appearance.",
      "rating": 5.0
   },
   {
@@ -264,6 +306,7 @@
     "title": "Casual Chinos",
     "price": "1899",
      "category": "Trouser",
+    "description":"Embrace casual sophistication with our Casual Chinos. Perfect for a relaxed yet polished look, these chinos are a versatile addition to your wardrobe. The high-quality fabric ensures comfort, while the timeless design makes them suitable for various occasions. Whether you're heading to the office, a casual outing, or a weekend brunch, these chinos will keep you stylish and comfortable. Pair them with your favorite shirt or tee for an effortlessly cool ensemble. Elevate your casual wear collection with the Casual Chinos – a must-have for the modern man.",
      "rating": 4.3
   },
   {
@@ -272,6 +315,7 @@
     "title": "Leather Jacket",
     "price": "3999",
      "category": "Jacket",
+    "description":"Make a bold statement with our Leather Jacket. Crafted from high-quality leather, this jacket exudes timeless style and rugged charm. The classic design and attention to detail make it a versatile piece that effortlessly complements various outfits. Whether you're going for a casual look or want to add an edge to your ensemble, this Leather Jacket is the perfect choice. The durable material ensures longevity, while the comfortable fit allows for easy movement. Embrace a distinctive and confident style with the Leather Jacket – a wardrobe essential for any fashion-forward man.",
      "rating": 3.5
   },
   {
@@ -280,6 +324,7 @@
     "title": "Polo Shirt",
     "price": "1099",
      "category": "Shirt",
+    "description":"Elevate your casual wardrobe with our Polo Shirt. The timeless design and comfortable fit make it a staple for every man's collection. Crafted from high-quality fabric, this shirt offers a perfect blend of style and ease. Whether you're heading to a weekend brunch or a casual outing, the Polo Shirt adds a touch of sophistication to your look. The versatile nature of this shirt allows you to pair it with jeans, chinos, or shorts for a smart and laid-back ensemble. Embrace a relaxed yet refined style with our Polo Shirt – a must-have for the modern man.",
      "rating": 3.4
   },
   {
@@ -288,6 +333,7 @@
     "title": "Slim-fit Suit",
     "price": "1299",
      "category": "Suit",
+    "description":"Step into sophistication with our Slim-fit Suit. Tailored to perfection, this suit combines modern style with a timeless silhouette. The slim-fit design offers a contemporary look, making it ideal for various occasions, from formal events to business meetings. Crafted from high-quality fabric, the suit ensures both comfort and elegance. The attention to detail and impeccable craftsmanship set this suit apart, making it a versatile choice for the fashion-forward man. Elevate your wardrobe with the Slim-fit Suit and exude confidence and style wherever you go.",
      "rating": 4.5
   },
   {
@@ -296,6 +342,7 @@
     "title": "Athletic Joggers",
     "price": "1999",
      "category": "Joggers",
+    "description":"Elevate your sporty style with our Athletic Joggers. Designed for both comfort and performance, these joggers are perfect for workouts or casual outings. The athletic fit provides freedom of movement, while the modern design adds a trendy touch. Crafted from high-quality materials, these joggers offer a soft and breathable feel. The versatile design makes them a go-to choice for those who appreciate both fashion and functionality. Whether you're hitting the gym or running errands, our Athletic Joggers ensure you do it in style.",
      "rating": 4.4
   },
   {
@@ -304,6 +351,7 @@
     "title": "Hooded Sweatshirt",
     "price": "1800",
      "category": "SweatShirt",
+    "description":"Stay cozy and stylish with our Hooded Sweatshirt. Crafted for comfort and warmth, this sweatshirt is an essential addition to your casual wardrobe. The hooded design provides extra protection against chilly weather, while the solid color adds a versatile touch. Made from high-quality materials, it ensures a soft and comfortable feel. Whether you're heading out for a casual day or just relaxing at home, the Hooded Sweatshirt offers the perfect blend of fashion and comfort. Elevate your winter wardrobe with this must-have piece that seamlessly combines practicality and style.",
      "rating": 4.3
   },
   {
@@ -312,6 +360,7 @@
     "title": "Checked Flannel Shirt",
     "price": "2100",
      "category": "Shirt",
+    "description":"Add a touch of classic style to your wardrobe with our Checked Flannel Shirt. The timeless checkered pattern brings a rustic charm, making it a versatile piece for various occasions. Crafted with meticulous attention to detail, this shirt offers a comfortable and tailored fit. The quality fabric ensures durability and a soft feel against your skin. Whether you're dressing up for a casual day out or layering for a relaxed look, the Checked Flannel Shirt effortlessly combines fashion and comfort. Make a statement with this wardrobe staple that never goes out of style.",
      "rating": 4.1
   },
   {
@@ -320,6 +369,7 @@
     "title": "Cargo Shorts",
     "price": "1199",
      "category": "Shorts",
+    "description":"Stay cool and stylish with our Cargo Shorts. Designed for comfort and functionality, these shorts are perfect for your casual and outdoor adventures. The cargo-style pockets add a touch of utility, providing extra storage for your essentials. Crafted from high-quality materials, these shorts offer durability and easy maintenance. The versatile design allows you to pair them with your favorite tees or shirts. Embrace a laid-back look without compromising on style. Elevate your summer wardrobe with the practical and fashionable Cargo Shorts.",
      "rating": 4.0
   },
   {
@@ -328,6 +378,7 @@
     "title": "Casual Linen Pants",
     "price": "1799",
      "category": "Pants",
+    "description":"Upgrade your casual wardrobe with our Casual Linen Pants. Crafted from breathable linen fabric, these pants offer a perfect blend of comfort and style. The relaxed fit ensures easy movement, making them ideal for various occasions. The versatile design allows you to dress them up or down, offering a laid-back yet sophisticated look. The high-quality construction and attention to detail make these pants a must-have for the fashion-forward man. Elevate your everyday style with the cool and comfortable Casual Linen Pants.",
      "rating": 3.5
   },
   {
@@ -336,6 +387,7 @@
     "title": "Crew Neck T-shirt",
     "price": "1299",
     "category": "T-shirt",
+    "description":"Keep it simple and stylish with our Crew Neck T-shirt. Crafted from soft and comfortable fabric, this classic t-shirt is a versatile addition to your casual wardrobe. The crew neck design and regular fit ensure a timeless and comfortable look. Whether you pair it with jeans for a laid-back vibe or layer it under a jacket for added flair, this t-shirt is a wardrobe essential. Elevate your casual style effortlessly with the minimalistic charm of our Crew Neck T-shirt.",
      "rating": 5.0
   },
   {
@@ -344,6 +396,7 @@
     "title": "Winter Pea Coat",
     "price": "2099",
     "category": "Coat",
+    "description":"Stay warm and stylish during the colder months with our Winter Pea Coat. Crafted from high-quality materials, this coat offers both comfort and sophistication. The classic pea coat design, featuring a double-breasted front and a tailored fit, adds a timeless touch to your winter wardrobe. The coat is not only a practical choice for chilly days but also a versatile piece that effortlessly complements various outfits. Embrace the season with confidence, knowing you have the perfect blend of fashion and warmth in our Winter Pea Coat.",
      "rating": 4.1
   },
   {
@@ -352,6 +405,7 @@
     "title": "Slim-fit Cargo Pants",
     "price": "1199",
     "category": "Pants",
+    "description":"Upgrade your casual wardrobe with our Slim-fit Cargo Pants. These pants strike the perfect balance between style and comfort, making them an essential addition to your everyday outfits. The slim-fit design offers a modern and tailored look, while the cargo pockets add a touch of utility and functionality. Crafted from high-quality materials, these pants provide a comfortable feel throughout the day. Whether you're running errands or meeting friends, the Slim-fit Cargo Pants are a versatile choice that ensures you stay on-trend without compromising on comfort.",
      "rating": 4.0
   },
   {
@@ -360,6 +414,7 @@
     "title": "Denim Trucker Jacket",
     "price": "1599",
     "category": "Jacket",
+    "description":"Elevate your casual style with our Denim Trucker Jacket. Crafted from high-quality denim, this jacket effortlessly combines fashion and comfort. The classic trucker design adds a timeless appeal, making it a versatile piece for various occasions. Whether you're heading out for a casual day or need an extra layer for cooler evenings, this jacket is the perfect choice. The durable construction ensures longevity, and the denim fabric only gets better with time, giving it a lived-in look. Make a statement with the Denim Trucker Jacket and embrace a laid-back yet stylish vibe.",
      "rating": 4.5
   },
   {
@@ -368,6 +423,7 @@
     "title": "Formal Dress Shoes",
     "price": "1100",
     "category": "Footwear",
+    "description":"Step into sophistication with our Formal Dress Shoes. Designed for the modern gentleman, these shoes blend style and comfort seamlessly. The sleek and polished appearance makes them an ideal choice for formal occasions, ensuring you make a lasting impression. Crafted with attention to detail, the shoes offer a perfect fit and excellent durability. The versatile design allows you to pair them effortlessly with suits, dress pants, or even smart casual ensembles. Elevate your formal wardrobe with these timeless Formal Dress Shoes and stride with confidence wherever you go.",
      "rating": 4.4
   },
   {
@@ -376,6 +432,7 @@
     "title": "Patterned Silk Tie",
     "price": "1100",
     "category": "Tie",
+    "description":"Elevate your formal attire with our Patterned Silk Tie. Crafted from luxurious silk, this tie adds a touch of sophistication to your ensemble. The intricate pattern enhances the visual appeal, making it a stylish accessory for various occasions. The high-quality construction ensures a soft and smooth feel, while the classic width allows for versatile styling. Whether you're attending a business meeting or a special event, this Patterned Silk Tie is the perfect finishing touch to your outfit, showcasing your impeccable taste and attention to detail.",
      "rating": 4.1
   },
   {
@@ -384,6 +441,7 @@
     "title": "Casual Slip-on Sneakers",
     "price": "2999",
     "category": "Footwear",
+    "description":"Step into comfort and style with our Casual Slip-on Sneakers. Perfect for a relaxed day out or casual gatherings, these sneakers offer a seamless blend of fashion and ease. The slip-on design provides convenience, while the durable construction ensures long-lasting wear. Whether you pair them with jeans, shorts, or casual trousers, these sneakers add a trendy touch to your ensemble. Embrace the laid-back vibe without compromising on style. Elevate your casual footwear collection with these versatile slip-on sneakers.",
      "rating": 4.2
   },
   {
@@ -392,6 +450,7 @@
     "title": "Quilted Vest",
     "price": "1899",
     "category": "Jacket",
+    "description":"Add a layer of style and warmth with our Quilted Vest. The water-repellent design makes it an ideal choice for unpredictable weather. Featuring a quilted pattern, this vest strikes the perfect balance between fashion and functionality. The versatile nature of the vest allows you to pair it effortlessly with various outfits. Whether you're heading outdoors or just want to elevate your casual look, this Quilted Vest is a must-have in your wardrobe. Stay cozy and on-trend with this stylish addition to your outerwear collection.",
      "rating": 4.4
   },
   {
@@ -400,6 +459,7 @@
     "title": "Linen Button-down Shirt",
     "price": "1399",
     "category": "Shirt",
+    "description":"Stay cool and stylish with our Linen Button-down Shirt. Crafted from lightweight linen fabric, this shirt offers a breathable and comfortable feel, making it perfect for various occasions. The button-down design adds a classic touch, while the linen material brings a casual and relaxed vibe. Whether you're dressing up for a semi-formal event or going for a laid-back look, this shirt is a versatile choice. Elevate your wardrobe with the timeless appeal of our Linen Button-down Shirt and embrace a perfect blend of comfort and fashion.",
      "rating": 4.5
   },
   {
@@ -408,6 +468,7 @@
     "title": "Tailored Wool Trousers",
     "price": "1700",
     "category": "Trouser",
+    "description":"Elevate your formal wardrobe with our Tailored Wool Trousers. Crafted from high-quality wool, these trousers offer a perfect combination of style and comfort. The tailored fit ensures a sharp and sophisticated look, making them ideal for professional settings or formal occasions. The versatile design allows you to pair them with a variety of shirts and shoes, giving you a polished and refined appearance. Invest in timeless elegance with our Tailored Wool Trousers and make a lasting impression wherever you go.",
      "rating": 5.0
   },
   {
@@ -416,6 +477,7 @@
     "title": "Pullover Hoodie",
     "price": "1999",
     "category": "Hoodie",
+    "description":"Stay cozy and stylish with our Pullover Hoodie. Crafted for comfort, this hoodie is perfect for casual outings or relaxed days at home. The pullover design makes it easy to wear, while the hoodie provides extra warmth during chilly weather. Made from high-quality materials, it offers a soft and comfortable feel against your skin. The versatile style allows you to pair it with jeans, joggers, or your favorite casual bottoms. Embrace laid-back vibes without compromising on style with our Pullover Hoodie.",
      "rating": 5.0
   },
   {
@@ -424,6 +486,7 @@
     "title": "Casual Canvas Belt",
     "price": "1499",
     "category": "Belt",
+    "description":"Complete your casual look with our Casual Canvas Belt. This versatile accessory is designed to add a touch of style to your everyday outfits. The canvas material ensures durability, making it suitable for daily wear. The belt features a classic design that effortlessly complements various styles, from jeans to chinos. The sturdy buckle provides a secure fit, and the adjustable length ensures a comfortable and customized fit. Elevate your casual ensemble with the finishing touch of our Casual Canvas Belt.",
      "rating": 4.5
   },
   {
@@ -431,8 +494,9 @@
     "image": "https://m.media-amazon.com/images/I/81RnwGJtrrL._AC_UY1100_.jpg",
     "title": "Fitted Baseball Cap",
     "price": "1999",
-    "category": "Cap"
-    , "rating": 4.4
+    "category": "Cap",
+    "description":"Top off your casual look with our Fitted Baseball Cap. This cap is designed for a comfortable and snug fit, providing both style and functionality. The classic baseball cap design adds a sporty touch to your outfit, making it a versatile accessory for various occasions. Whether you're heading to a game or simply running errands, this fitted cap is the perfect choice. The high-quality materials ensure durability, and the sleek design complements your casual and athletic attire effortlessly.",
+     "rating": 4.4
   },
   {
     "id":27,
@@ -440,6 +504,7 @@
     "title": "Slim-fit Corduroy Pants",
     "price": "2299",
     "category": "Pants",
+    "description":"Step into style with our Slim-fit Corduroy Pants. Crafted with precision, these pants offer a tailored fit that adds a touch of sophistication to your casual or semi-formal look. The corduroy fabric provides a soft and textured feel, ensuring both comfort and style. The slim-fit design enhances your silhouette, making these pants a versatile choice for various occasions. Elevate your wardrobe with this classic piece that effortlessly combines fashion and comfort.",
      "rating": 4.2
   },
   {
@@ -448,6 +513,7 @@
     "title": "Classic Wool Fedora",
     "price": "3499",
     "category": "Cap",
+    "description":"Top off your look with timeless elegance wearing our Classic Wool Fedora. This hat is crafted with precision and made from high-quality wool, providing both durability and a touch of luxury. The classic design and neutral color make it a versatile accessory to complement various outfits. Whether you're heading to a formal event or adding a sophisticated touch to your everyday style, the Classic Wool Fedora is the perfect choice. Embrace a blend of tradition and modern fashion with this iconic accessory.",
      "rating": 4.0
   },
   {
@@ -456,6 +522,7 @@
     "title": "Casual Denim Shirt",
     "price": "3199",
     "category": "Shirt",
+    "description":"Elevate your casual wardrobe with our Casual Denim Shirt. Designed for comfort and style, this shirt features a slim-fit silhouette that complements your physique. The denim fabric adds a touch of rugged charm, making it suitable for various occasions. Whether you're going for a laid-back look or dressing up for a casual outing, this shirt is a versatile choice. The full sleeves provide additional warmth, making it a perfect choice for transitional weather. Embrace a relaxed yet refined look with our Casual Denim Shirt.",
      "rating": 3.5
   },
   {
@@ -464,6 +531,7 @@
     "title": "Tailored Blazer",
     "price": "2999",
     "category": "Blazer",
+    "description":"Make a statement with our Tailored Blazer, a perfect blend of sophistication and style. Crafted with precision, this blazer is tailored to perfection, ensuring a sharp and polished look. The versatile design makes it suitable for various occasions, from formal events to business meetings. The high-quality fabric provides both comfort and durability, making it a wardrobe staple. Elevate your ensemble with the timeless appeal of our Tailored Blazer and exude confidence wherever you go.",
      "rating": 4.5
   }
 ],
@@ -474,6 +542,7 @@
     "title": "Adorable Animal Print Onesie",
     "price": "1999",
     "category": "Nightdress",
+    "description":"Let your little one snuggle up in style with our Adorable Animal Print Onesie. Made from soft and cozy fabric, this onesie ensures maximum comfort all night long. The cute animal print adds a fun and playful touch, making bedtime more exciting for your child. With its convenient design and durable construction, this onesie is perfect for lounging around the house or for sleepovers with friends. Treat your little one to ultimate comfort and cuteness with our Adorable Animal Print Onesie!",
      "rating": 4.5
   },
   {
@@ -482,6 +551,7 @@
     "title": "Colorful Striped T-shirt",
     "price": "1250",
     "category": "T-shirt",
+    "description":"Bring a burst of color to your child's wardrobe with our Colorful Striped T-shirt. Crafted from high-quality, breathable fabric, this t-shirt ensures comfort and style for your little one. The vibrant stripes add a playful and cheerful vibe, making it a perfect choice for casual outings and playdates. With a comfortable fit and durable construction, this t-shirt is designed to keep up with your child's active adventures. Elevate their everyday look with the Colorful Striped T-shirt that combines fashion and fun effortlessly.",
      "rating": 5.0
   },
   {
@@ -490,6 +560,7 @@
     "title": "Cute Cartoon Hoodie",
     "price": "2499",
     "category": "Hoodie",
+    "description":"Let your little one embrace coziness and cuteness with our Cute Cartoon Hoodie. This adorable hoodie features playful cartoon characters that add a delightful touch to your child's wardrobe. Crafted from soft and warm fabric, it provides comfort during chilly days or evenings. The hoodie is designed with attention to detail, ensuring a perfect fit and easy movement for your child. Whether it's a day at home or outdoor adventures, the Cute Cartoon Hoodie is a must-have for every young fashionista. Make dressing up fun and stylish with this charming hoodie.",
      "rating": 4.5
   },
   {
@@ -498,6 +569,7 @@
     "title": "Denim Dungarees",
     "price": "2999",
    "category": "Dungarees",
+    "description":"Add a touch of casual charm to your little one's wardrobe with our Denim Dungarees. Made from high-quality denim, these dungarees are both stylish and comfortable. The classic denim fabric ensures durability, making them perfect for playtime adventures. The adjustable straps and easy-to-use closures make dressing up hassle-free. Whether it's a playdate or a family outing, these Denim Dungarees are a versatile choice for your child's everyday style. Let your little trendsetter showcase their fashion sense with this timeless and adorable piece.",
      "rating": 4.4
   },
   {
@@ -506,232 +578,262 @@
     "title": "Floral Print Dress",
     "price": "1875",
     "category": "Dress",
+    "description":"Let your little one bloom in style with our Floral Print Dress. This adorable dress features a vibrant floral pattern that adds a playful touch to any occasion. The comfortable and breathable fabric ensures your child stays happy and carefree during their day. The dress is designed for easy wear, making it a convenient choice for parents. Whether it's a special event or a casual day out, this Floral Print Dress is the perfect addition to your child's wardrobe. Embrace the joy of childhood fashion with this delightful and trendy piece.",
      "rating": 4.3
   },
-  {
-    "id":6,
+ {
+    "id": 6,
     "image": "https://m.media-amazon.com/images/I/51GcydDAntL._AC_UY1000_.jpg",
     "title": "Sporty Jogging Set",
     "price": "2250",
     "category": "Sweater",
-     "rating": 4.2
-  },
+    "description": "Elevate your little one's active style with our Sporty Jogging Set. This set is perfect for both playtime and casual outings, providing comfort and flexibility. The sporty design adds a trendy touch, making it a favorite among young fashion enthusiasts. Crafted from high-quality materials, the set ensures durability and easy maintenance. The cozy sweater keeps your child warm during cooler days, while the stylish joggers offer a modern and relaxed fit. Let your kid showcase their sporty flair with this fashionable and functional jogging set.",
+    "rating": 4.2
+},
   {
-    "id":7,
+    "id": 7,
     "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/IV/SK/LQ/2057063/crs409a-500x500.jpg",
     "title": "Cozy Knitted Sweater",
     "price": "2699",
     "category": "Sweater",
-     "rating": 4.0
-  },
+    "description": "Wrap your little one in warmth and style with our Cozy Knitted Sweater. Crafted from soft and breathable knit fabric, this sweater ensures a comfortable fit for your child. The cozy and stylish design makes it a versatile choice for various occasions, from family gatherings to outdoor adventures. The knitted texture adds a touch of sophistication, while the vibrant color enhances the overall charm. Keep your little fashionista snug and trendy with this delightful knitted sweater, perfect for creating memorable winter looks.",
+    "rating": 4.0
+},
   {
-    "id":8,
+  {
+    "id": 8,
     "image": "https://m.media-amazon.com/images/I/61pWQf8ZH-L._AC_UY1100_.jpg",
     "title": "Elegant Party Dress",
     "price": "3250",
     "category": "Dress",
-     "rating": 3.5
-  },
+    "description": "Dress your little one in enchanting style with our Elegant Party Dress. This charming dress is perfect for special occasions and celebrations, adding a touch of glamour to your child's wardrobe. The elegant design features exquisite details and a comfortable fit, ensuring your little princess feels like royalty. Whether it's a birthday party or a festive event, this dress is a delightful choice. Make unforgettable memories with your child dressed in this elegant party attire, capturing the joy and magic of every moment.",
+    "rating": 3.5
+},
   {
-    "id":9,
+    "id": 9,
     "image": "https://i.etsystatic.com/14549777/r/il/fbe5da/3510886817/il_570xN.3510886817_psye.jpg",
     "title": "Funny Graphic T-shirt",
     "price": "1499",
     "category": "T-shirt",
-     "rating": 3.2
-  },
-  {
-    "id":10,
+    "description": "Add a playful twist to your child's wardrobe with our Funny Graphic T-shirt. This whimsical tee features a delightful and humorous graphic, making it the perfect choice for casual and fun-filled days. Crafted with comfort in mind, the T-shirt offers a soft feel against your child's skin and allows for easy movement. Let your little one express their unique style and sense of humor with this eye-catching graphic tee. It's an excellent addition to their collection of cool and comfy clothing, ensuring smiles and laughter wherever they go.",
+    "rating": 3.2
+},
+ {
+    "id": 10,
     "image": "https://m.media-amazon.com/images/I/916bQnmUV2L._AC_UY1100_.jpg",
     "title": "Casual Denim Jacket",
     "price": "3500",
     "category": "Jacket",
-     "rating": 3.0
-  },
+    "description": "Upgrade your child's wardrobe with our Casual Denim Jacket. Designed for both style and comfort, this jacket is a versatile addition for various occasions. The classic denim fabric ensures durability and a trendy look, making it a go-to choice for casual outings or layered outfits. The jacket's relaxed fit allows for easy movement, while the timeless denim design adds a touch of coolness to your child's ensemble. Let your little one make a fashion statement with this must-have denim jacket, creating a stylish and effortlessly chic appearance.",
+    "rating": 3.0
+},
   {
-    "id":11,
+    "id": 11,
     "image": "https://assets.ajio.com/medias/sys_master/root/20221015/leYI/634a6ea5aeb269659c476282/-473Wx593H-410261912-shockblue-MODEL.jpg",
     "title": "Striped Polo Shirt",
     "price": "1625",
     "category": "Shirt",
-     "rating": 4.0
-  },
+    "description": "Elevate your child's wardrobe with our Striped Polo Shirt. Crafted with a perfect blend of style and comfort, this shirt is a versatile choice for various occasions. The striped pattern adds a touch of playfulness to the classic polo design, making it a wardrobe essential. The breathable fabric ensures a comfortable fit, while the stylish appeal makes it suitable for both casual and semi-formal settings. Let your little one showcase their fashion-forward style with our Striped Polo Shirt, perfect for creating a trendy and dashing look.",
+    "rating": 4.0
+},
   {
-    "id":12,
+    "id": 12,
     "image": "https://fcity.in/images/products/325144798/1cbcz_512.jpg",
     "title": "Playful Jumpsuit",
     "price": "2199",
     "category": "Jumpsuit",
-     "rating": 4.5
-  },
-  {
-    "id":13,
+    "description": "Unleash the playful spirit with our Playful Jumpsuit for kids. This delightful jumpsuit is designed for comfort and style, making it a perfect choice for various occasions. The vibrant colors and playful patterns add a touch of fun to your child's wardrobe. The jumpsuit is crafted from soft and breathable fabric to ensure ease of movement while providing a snug fit. Whether it's playtime or a special event, our Playful Jumpsuit keeps your little one stylish and comfortable throughout the day.",
+    "rating": 4.5
+},
+ {
+    "id": 13,
     "image": "https://m.media-amazon.com/images/I/71a-OdGie-L._AC_UY1100_.jpg",
     "title": "Comfy Sleepwear Set",
     "price": "1950",
     "category": "Nightdress",
-     "rating": 5.0
-  },
-  {
-    "id":14,
+    "description": "Transform bedtime into a cozy and stylish affair with our Comfy Sleepwear Set for kids. Crafted with comfort in mind, this set ensures a peaceful night's sleep. The breathable fabric gently hugs the skin, providing a soft and soothing touch. The playful design adds a touch of charm, making bedtime exciting for your little one. From storytime to dreamland, our Comfy Sleepwear Set is the perfect companion for a restful night. Make bedtime a delightful experience with this adorable and comfortable sleepwear set.",
+    "rating": 5.0
+},
+ {
+    "id": 14,
     "image": "https://m.media-amazon.com/images/I/61XFPMqMg+L._AC_UY1100_.jpg",
     "title": "Rainbow Striped Socks (Pack of 3)",
     "price": "899",
     "category": "Socks",
-     "rating": 4.2
-  },
+    "description": "Step into a world of vibrant style with our Rainbow Striped Socks. This pack of three socks brings a burst of color to your everyday attire. The high-quality fabric ensures comfort throughout the day, while the rainbow stripes add a playful and trendy touch to your sock collection. Whether you're heading to work or just relaxing at home, these socks are designed to keep your feet cozy and stylish. Elevate your sock game and embrace the joy of colorful fashion with our Rainbow Striped Socks.",
+    "rating": 4.2
+},
   {
-    "id":15,
+    "id": 15,
     "image": "https://i.pinimg.com/originals/37/54/25/375425576ad2d1d49e7fa236051945d1.jpg",
     "title": "Smart Casual Blazer",
     "price": "2875",
     "category": "Blazer",
-     "rating": 4.3
-  },
+    "description": "Upgrade your wardrobe with our Smart Casual Blazer, a perfect blend of sophistication and contemporary style. Tailored to perfection, this blazer adds a touch of elegance to your smart-casual ensemble. The versatile design makes it suitable for various occasions, whether it's a business meeting or a night out. Crafted from high-quality materials, it ensures comfort and durability. The attention to detail and modern cut make this blazer a must-have for those who appreciate both style and refinement. Elevate your fashion statement with our Smart Casual Blazer and embrace the confidence that comes with impeccable dressing.",
+    "rating": 4.3
+},
   {
-    "id":16,
+    "id": 16,
     "image": "https://m.media-amazon.com/images/I/61KgO2-EbgL._AC_UY1100_.jpg",
     "title": "Winter Snowsuit",
     "price": "4200",
     "category": "Snowsuit",
-     "rating": 4.4
-  },
-  {
-    "id":17,
+    "description": "Embrace the winter chill with our Winter Snowsuit, designed to keep you warm and stylish in the snowy weather. Crafted with premium materials, this snowsuit provides superior insulation and comfort. The thoughtful design ensures full coverage, protecting you from the cold while maintaining your fashion-forward look. Whether you're hitting the slopes or enjoying a winter stroll, this snowsuit is your go-to choice. The versatile style and practical features make it a must-have for your winter adventures. Elevate your winter wardrobe with our Winter Snowsuit and make a statement in the snowy landscape.",
+    "rating": 4.4
+},
+{
+    "id": 17,
     "image": "https://fcity.in/images/products/24455955/a0b5f_512.jpg",
     "title": "Funky Patterned Leggings",
     "price": "1325",
     "category": "Leggings",
-     "rating": 4.5
-  },
-  {
-    "id":18,
+    "description": "Step into bold style with our Funky Patterned Leggings. Featuring vibrant and eye-catching patterns, these leggings add a playful touch to your activewear or casual wardrobe. Crafted from a stretchy and comfortable fabric, they provide a snug fit while allowing freedom of movement. The elastic waistband ensures a secure and comfortable fit throughout the day. Whether you're hitting the gym or running errands, these leggings bring a trendy flair to your outfit. Express your unique style with the Funky Patterned Leggings and make a statement wherever you go.",
+    "rating": 4.5
+},
+ {
+    "id": 18,
     "image": "https://ae01.alicdn.com/kf/H36faad4f07b64474ba189b26b252d35dD.jpg_640x640Q90.jpg_.webp",
     "title": "Casual Checkered Shirt",
     "price": "2050",
     "category": "Shirt",
-     "rating": 5.0
-  },
-  {
-    "id":19,
+    "description": "Elevate your casual wardrobe with our Casual Checkered Shirt. Crafted with a keen eye for style, this shirt features a timeless checkered pattern that adds a touch of sophistication to your look. The comfortable fabric ensures a relaxed fit, making it an ideal choice for various occasions. Whether you're going for a laid-back weekend outing or a casual office day, this shirt complements your style effortlessly. The versatile design pairs well with jeans or chinos, offering endless styling possibilities. Make a fashion statement with the Casual Checkered Shirt and embrace a blend of comfort and elegance.",
+    "rating": 5.0
+},
+{
+    "id": 19,
     "image": "https://www.animal.co.uk/cdn/shop/products/041651_mus_animal_rowan_boys_organic_cargo_shorts_anl_ss23_05_696x.jpg?v=1677756826",
     "title": "Adventurous Cargo Shorts",
     "price": "1599",
     "category": "Shorts",
-     "rating": 4.5
-  },
-  {
-    "id":20,
+    "description": "Unleash the spirit of adventure with our Adventurous Cargo Shorts. Designed for young explorers, these shorts are crafted with comfort and durability in mind. The cargo-style design adds a trendy touch, while the high-quality fabric ensures flexibility and ease of movement. Whether it's a day of outdoor play or a casual hangout with friends, these shorts provide the perfect blend of style and functionality. The versatile design makes them a summer wardrobe essential. Let your little one embark on exciting journeys in style with our Adventurous Cargo Shorts.",
+    "rating": 4.5
+},
+ {
+    "id": 20,
     "image": "https://m.media-amazon.com/images/I/715pMIdsARS._AC_UF1000,1000_QL80_.jpg",
     "title": "Dainty Floral Headband",
     "price": "1675",
     "category": "Headband",
-     "rating": 4.3
-  },
+    "description": "Elevate your look with our Dainty Floral Headband, a perfect accessory for adding a touch of charm to any outfit. The headband features delicate floral details that bring a sense of elegance and grace. Crafted with attention to detail, it ensures both style and comfort. Whether you're attending a special occasion or simply want to enhance your everyday look, this headband is a versatile choice. Embrace the beauty of simplicity and adorn yourself with the Dainty Floral Headband to effortlessly elevate your style.",
+    "rating": 4.3
+},
   {
-    "id":21,
+    "id": 21,
     "image": "https://rukminim2.flixcart.com/image/850/1000/kkbh8cw0/backpack/8/u/c/cute-red-owl-shape-multi-color-unique-pattern-backpacks-children-original-imafzzugazg4pugx.jpeg?q=90&crop=false",
     "title": "Quirky Patterned Backpack",
     "price": "1899",
     "category": "Backpack",
-     "rating": 3.5
-  },
+    "description": "Unleash your unique style with our Quirky Patterned Backpack. This backpack not only stands out with its vibrant and playful design but also offers functionality and durability. The quirky pattern adds a fun and distinctive touch, making it a perfect companion for school, travel, or casual outings. The backpack is designed to provide ample storage space for your essentials while ensuring comfort with adjustable straps. Express your individuality and carry your belongings in style with this eye-catching Quirky Patterned Backpack.",
+    "rating": 3.5
+},
   {
-    "id":22,
+    "id": 22,
     "image": "https://images-cdn.ubuy.co.in/63895aadc3f8da5aeb1da2c3-k-komforme-kid-canvas-shoes-casual-white.jpg",
     "title": "Casual Canvas Shoes",
     "price": "2400",
     "category": "Footwear",
-     "rating": 3.0
-  },
+    "description": "Step into style and comfort with our Casual Canvas Shoes for kids. These shoes are crafted with care, ensuring both a trendy look and a comfortable feel. The classic white color adds versatility to pair effortlessly with various outfits. The canvas material provides durability, making these shoes suitable for everyday adventures. The casual design makes them ideal for playdates, outings, or any casual occasion. Let your little one showcase their fashion sense with these stylish and comfy Casual Canvas Shoes.",
+    "rating": 3.0
+},
   {
-    "id":23,
+    "id": 23,
     "image": "https://img.fruugo.com/product/8/12/912476128_max.jpg",
     "title": "Cartoon Character Pajamas",
     "price": "1750",
     "category": "Pajamas",
-     "rating": 4.5
-  },
+    "description": "Make bedtime fun with our Cartoon Character Pajamas for kids. These adorable pajamas feature beloved cartoon characters that your little one will love. Crafted from soft and comfortable fabric, these pajamas ensure a cozy and restful sleep. The vibrant colors and playful design add a touch of excitement to bedtime routines. Let your child's dreams be filled with joy and imagination while wearing these delightful Cartoon Character Pajamas.",
+    "rating": 4.5
+},
   {
-    "id":24,
+    "id": 24,
     "image": "https://ae01.alicdn.com/kf/H81df1984c31042758b8a167ccc2a4c77C.jpg_640x640Q90.jpg_.webp",
     "title": "Chic Bowtie",
     "price": "999",
     "category": "Headband",
-     "rating": 4.0
-  },
-  {
-    "id":25,
+    "description": "Add a touch of elegance to your little one's outfit with our Chic Bowtie. This stylish accessory is perfect for special occasions, parties, or simply to elevate everyday attire. The chic design and high-quality craftsmanship make it a must-have for your child's accessory collection. The adjustable strap ensures a comfortable fit for various ages, allowing your child to showcase their fashion sense. Let your little trendsetter shine with this adorable and versatile Chic Bowtie.",
+    "rating": 4.0
+},
+{
+    "id": 25,
     "image": "https://m.media-amazon.com/images/I/61Df3V4F2CL._AC_UY1100_.jpg",
     "title": "Printed Sun Hat",
     "price": "1125",
     "category": "Hat",
-     "rating": 4.1
-  },
-  {
-    "id":26,
+    "description": "Shield your little one from the sun in style with our Printed Sun Hat. This adorable hat features a vibrant print that adds a playful touch to any outfit. The wide brim provides excellent sun protection for your child's face and neck during outdoor adventures. The lightweight and breathable fabric ensure comfort, making it ideal for sunny days at the beach, picnics, or family outings. Keep your child cool and fashionable with this Printed Sun Hat that combines practicality with charming design.",
+    "rating": 4.1
+},
+ {
+    "id": 26,
     "image": "https://www.littledesire.com/uploads/products/k1612520172k47.jpg",
     "title": "Trendy Sunglasses",
     "price": "1450",
     "category": "Sunglasses",
-     "rating": 4.0
-  },
-  {
-    "id":27,
+    "description": "Elevate your child's style with our Trendy Sunglasses. These sunglasses are not just an accessory but a fashion statement for your little fashionista or fashionisto. The cool and modern design adds flair to any outfit, whether it's a casual day out or a special event. The UV-protected lenses ensure your child's eyes are shielded from harmful sun rays while keeping them looking effortlessly stylish. Let your child showcase their personality with these Trendy Sunglasses, the perfect blend of fashion and functionality.",
+    "rating": 4.0
+},
+ {
+    "id": 27,
     "image": "https://rukminim2.flixcart.com/image/850/1000/ktvucnk0/ear-muff/d/x/x/winter-earmuff-ear-warmers-muffs-headband-for-men-women-kids-ski-original-imag74uew6wkftrt.jpeg?q=90&crop=false",
     "title": "Cute Bunny Earmuffs",
     "price": "1299",
     "category": "Earmuffs",
-     "rating": 5.0
-  },
+    "description": "Keep your child warm and stylish with our Cute Bunny Earmuffs. These adorable earmuffs are not just a winter essential but also a cute fashion accessory. The fluffy bunny design adds a playful touch to your child's winter wardrobe, making them stand out in the crowd. The earmuffs are designed for comfort, ensuring your child stays cozy during chilly days. Let your little one embrace winter with these Cute Bunny Earmuffs, combining warmth with a touch of whimsy.",
+    "rating": 5.0
+},
   {
-    "id":28,
+    "id": 28,
     "image": "https://m.media-amazon.com/images/I/816kgIGywHL._AC_UY1000_.jpg",
     "title": "Sparkly Ballet Flats",
     "price": "2175",
     "category": "Footwear",
-     "rating": 4.0
-  },
-  {
-    "id":29,
+    "description": "Let your little one shine with these Sparkly Ballet Flats. Perfect for special occasions or everyday glamour, these ballet flats add a touch of sparkle to any outfit. The glittery design captures the light, making your child feel like a star wherever they go. With a comfortable and stylish design, these ballet flats are a must-have in your child's footwear collection. Elevate their style and make every step magical with the Sparkly Ballet Flats.",
+    "rating": 4.0
+},
+{
+    "id": 29,
     "image": "https://images-cdn.ubuy.co.in/644d25c367f0940a861e93de-toys-studio-giant-teddy-bear-plush.jpg",
     "title": "Plush Teddy Bear",
     "price": "1699",
     "category": "Toys",
-     "rating": 4.5
-  },
-  {
-    "id":30,
+    "description": "Bring joy to your little one with this adorable Plush Teddy Bear. Soft, cuddly, and huggable, this giant teddy bear is the perfect companion for playtime and bedtime. Crafted with high-quality materials, it ensures a gentle touch against your child's skin. Whether it's for a birthday, holiday, or just to express your love, this plush teddy bear makes a wonderful gift. Let your child create lasting memories with their new furry friend.",
+    "rating": 4.5
+},
+ {
+    "id": 30,
     "image": "https://m.media-amazon.com/images/I/51uB7i1cw+L._AC_UF1000,1000_QL80_.jpg",
     "title": "Pull Back Auto",
     "price": "1499",
     "category": "Toys",
-     "rating": 4.1
-  },
-    {
-    "id":31,
+    "description": "Watch your child's eyes light up with delight as they play with this exciting Pull Back Auto toy. Featuring vibrant colors and a sleek design, this toy car is perfect for little ones who love adventures. The pull-back mechanism adds an element of fun, allowing the car to zoom forward with a simple pull. Made from child-safe materials, this toy provides endless entertainment while ensuring your child's safety. Add a touch of joy to playtime with this engaging Pull Back Auto toy.",
+    "rating": 4.1
+},
+   {
+    "id": 31,
     "image": "https://www.ikea.com/in/en/images/products/kramig-soft-toy-white-black__0162448_pe317642_s5.jpg?f=s",
     "title": "Panda",
     "price": "1100",
     "category": "Toys",
-       "rating": 4.4
-  },
+    "description": "Bring the charm of the wilderness into your child's room with this adorable Panda soft toy. Crafted with care and attention to detail, this plush toy is not only cute but also incredibly huggable. Its soft, cuddly fur makes it the perfect companion for bedtime stories and naptime cuddles. The monochromatic design adds a touch of simplicity and elegance to the toy. Give your little one the joy of having their own cuddly Panda friend with this delightful plush toy.",
+    "rating": 4.4
+},
     {
-    "id":32,
+    "id": 32,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeb29ty9YUNKyBEkMSIUz6gRFQaJsIKBrD8ZAOpw5C2MReIntNV1nUkDB2ZT6cmQosOI&usqp=CAU",
     "title": "Hat",
     "price": "1100",
     "category": "Hat",
-       "rating": 4.3
-  },
-    {
-    "id":33,
+    "description": "Stay stylish and protected from the sun with this fashionable hat. Made from high-quality materials, this hat not only provides shade but also adds a trendy touch to your outfit. Whether you're heading to the beach, going for a casual stroll, or attending a summer event, this hat is the perfect accessory. Its versatile design makes it suitable for various occasions, and the durable construction ensures long-lasting wear. Elevate your style and stay cool under the sun with this chic hat.",
+    "rating": 4.3
+},
+ {
+    "id": 33,
     "image": "https://www.jiomart.com/images/product/original/rvxqa1nm8n/kats-kids-casual-shoes-blue-product-images-rvxqa1nm8n-0-202212071335.jpg?im=Resize=(500,630)",
     "title": "Shoes",
     "price": "1100",
     "category": "Footwear",
-       "rating": 4.5
-  }
+    "description": "Step into style and comfort with these trendy kids' casual shoes. Designed with both fashion and functionality in mind, these shoes feature a vibrant blue color that adds a playful touch to any outfit. The comfortable fit and durable construction make them perfect for active kids. Whether they're running around the playground or attending a special event, these shoes provide the support and style your child needs. Make a statement with these fashionable and functional kids' shoes.",
+    "rating": 4.5
+}
       
 ],
     "Users": [
