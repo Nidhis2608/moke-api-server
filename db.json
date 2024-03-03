@@ -6,9 +6,7 @@
     "title": "Floral Maxi Dress",
     "price": "999",
      "category": "Dress",
-     "description":"This floaty, floral maxi dress is perfect for their next party or special occasion. 
-                     Regular fit with a shirred waist for extra shaping and pretty frill detail on the short sleeves.
-                      Maxi-length skirt that's slightly longer in the back and features a tiered hem for playfulness.",
+     "description":"This floaty, floral maxi dress is perfect for their next party or special occasion.Regular fit with a shirred waist for extra shaping and pretty frill detail on the short sleeves.Maxi-length skirt that's slightly longer in the back and features a tiered hem for playfulness.",
      "rating": 4.5
   },
   {
@@ -17,9 +15,7 @@
     "title": "Cropped Denim Jacket",
     "price": "1195",
     "category": "Jacket",
-     "description":"Elevate your casual style with this chic Cropped Denim Jacket. 
-                    Crafted from high-quality denim, this jacket effortlessly combines fashion and comfort.
-                    The cropped design adds a modern touch, making it a versatile piece for various occasions.",
+     "description":"Elevate your casual style with this chic Cropped Denim Jacket.Crafted from high-quality denim, this jacket effortlessly combines fashion and comfort.The cropped design adds a modern touch, making it a versatile piece for various occasions.",
      "rating": 3.5
   },
   {
@@ -28,9 +24,7 @@
     "title": "Striped Linen Blouse",
     "price": "999",
     "category": "Blouse",
-     "description":"Embrace the charm of laid-back elegance with our Striped Linen Blouse. Perfect for warm days or casual outings, 
-                      this blouse combines comfort and style effortlessly.
-                     The lightweight linen fabric ensures breathability, making it an ideal choice for any season. ",
+     "description":"Embrace the charm of laid-back elegance with our Striped Linen Blouse. Perfect for warm days or casual outings, this blouse combines comfort and style effortlessly.The lightweight linen fabric ensures breathability, making it an ideal choice for any season. ",
      "rating": 4.0
   },
   {
@@ -39,9 +33,7 @@
     "title": "Wide-Leg High Waist Pants",
     "price": "2450",
     "category": "Jeans",
-     "description":"Step into elevated style with our Wide-Leg High Waist Pants. 
-                   These chic and versatile trousers are designed to make a statement while providing maximum comfort. 
-                 The high-rise silhouette accentuates your waist, while the wide-leg design adds a touch of modern flair. ",
+     "description":"Step into elevated style with our Wide-Leg High Waist Pants. These chic and versatile trousers are designed to make a statement while providing maximum comfort.The high-rise silhouette accentuates your waist, while the wide-leg design adds a touch of modern flair. ",
      "rating": 4.0
   },
   {
@@ -50,9 +42,7 @@
     "title": "Knit Sweater Dress",
     "price": "1549",
     "category": "Sweater",
-     "description":"Embrace the cozy-chic vibes with our Knit Sweater Dress. 
-      This stylish piece seamlessly combines the comfort of a sweater with the sophistication of a dress. 
-    Crafted from soft and luxurious knit fabric, it feels as good as it looks. ",
+     "description":"Embrace the cozy-chic vibes with our Knit Sweater Dress.This stylish piece seamlessly combines the comfort of a sweater with the sophistication of a dress.Crafted from soft and luxurious knit fabric, it feels as good as it looks. ",
      "rating": 4.5
   },
   {
